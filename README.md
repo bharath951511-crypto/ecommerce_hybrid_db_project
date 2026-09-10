@@ -1,2 +1,26 @@
-# ecommerce_hybrid_db_project
-A hybrid e-commerce database system integrating PostgreSQL for ACID-compliant users, orders, and payments with MongoDB for flexible product catalogs, reviews, and activity logs. Includes schemas, sample data, CRUD queries, aggregation, indexing, and documentation.
+# Hybrid E-Commerce Database System
+
+## Requirements
+
+- Python 3
+- Git
+
+## Run
+
+Clone the repository:
+
+git clone YOUR_GITHUB_LINK
+
+Navigate to the project:
+
+cd "E commerce/ecommerce_hybrid_db_project"
+
+Run:
+
+python3 scripts/run_all_queries.py
+
+python3 scripts/generate_data.py
+
+Results are generated in:
+
+output/query_results.txt

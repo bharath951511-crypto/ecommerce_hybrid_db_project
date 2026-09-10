@@ -1,0 +1,151 @@
+############################################################
+  SQL SIDE  —  CRUD + Aggregation query results
+############################################################
+
+[1] CREATE — insert a new user
+----------------------------------------------------------------------
+User_id = 151
+
+[2] READ — user profile by email
+----------------------------------------------------------------------
+{'user_id': 151, 'first_name': 'Aisha', 'last_name': 'Khan', 'email': 'aisha.khan.demo@example.com', 'city': 'Hyderabad', 'country': 'IN'}
+
+[3] READ — full order detail (order_id = 1)
+----------------------------------------------------------------------
+{'order_id': 1, 'order_status': 'shipped', 'total_amount': 4089.34, 'product_id': 'P00049', 'quantity': 1, 'unit_price': 388.25, 'payment_method': 'cod', 'payment_status': 'success', 'carrier': 'Delhivery', 'shipping_status': 'shipped'}
+{'order_id': 1, 'order_status': 'shipped', 'total_amount': 4089.34, 'product_id': 'P00044', 'quantity': 2, 'unit_price': 366.92, 'payment_method': 'cod', 'payment_status': 'success', 'carrier': 'Delhivery', 'shipping_status': 'shipped'}
+{'order_id': 1, 'order_status': 'shipped', 'total_amount': 4089.34, 'product_id': 'P00096', 'quantity': 1, 'unit_price': 1306.49, 'payment_method': 'cod', 'payment_status': 'success', 'carrier': 'Delhivery', 'shipping_status': 'shipped'}
+{'order_id': 1, 'order_status': 'shipped', 'total_amount': 4089.34, 'product_id': 'P00052', 'quantity': 1, 'unit_price': 1357.85, 'payment_method': 'cod', 'payment_status': 'success', 'carrier': 'Delhivery', 'shipping_status': 'shipped'}
+
+[4] UPDATE — mark order 1 as shipped
+----------------------------------------------------------------------
+{'order_id': 1, 'status': 'shipped'}
+
+[5] DELETE — cancel a pending order (id=5, guarded)
+----------------------------------------------------------------------
+Rows affected: 0
+
+[6] AGGREGATION — revenue & order count per month
+----------------------------------------------------------------------
+{'month': '2025-09', 'orders': 18, 'revenue': 78030.02}
+{'month': '2025-10', 'orders': 14, 'revenue': 64735.14}
+{'month': '2025-11', 'orders': 13, 'revenue': 87236.34}
+{'month': '2025-12', 'orders': 9, 'revenue': 54370.08}
+{'month': '2026-01', 'orders': 13, 'revenue': 70425.29}
+{'month': '2026-02', 'orders': 18, 'revenue': 76899.53}
+{'month': '2026-03', 'orders': 11, 'revenue': 48753.11}
+{'month': '2026-04', 'orders': 19, 'revenue': 107991.39}
+{'month': '2026-05', 'orders': 19, 'revenue': 105728.3}
+{'month': '2026-06', 'orders': 14, 'revenue': 69105.2}
+{'month': '2026-07', 'orders': 21, 'revenue': 105116.14}
+{'month': '2026-08', 'orders': 16, 'revenue': 92723.86}
+{'month': '2026-09', 'orders': 8, 'revenue': 33607.8}
+
+[7] AGGREGATION — top 10 customers by lifetime spend
+----------------------------------------------------------------------
+{'user_id': 118, 'first_name': 'Aarav', 'last_name': 'Sharma', 'orders_placed': 4, 'spend': 38252.78}
+{'user_id': 78, 'first_name': 'Daniel', 'last_name': 'Miller', 'orders_placed': 3, 'spend': 25388.83}
+{'user_id': 46, 'first_name': 'Divya', 'last_name': 'Verma', 'orders_placed': 2, 'spend': 21858.05}
+{'user_id': 56, 'first_name': 'Riya', 'last_name': 'Davis', 'orders_placed': 4, 'spend': 21604.15}
+{'user_id': 124, 'first_name': 'Anika', 'last_name': 'Reddy', 'orders_placed': 3, 'spend': 21242.74}
+{'user_id': 7, 'first_name': 'Sai', 'last_name': 'Joshi', 'orders_placed': 3, 'spend': 20747.23}
+{'user_id': 133, 'first_name': 'Mason', 'last_name': 'Smith', 'orders_placed': 2, 'spend': 20743.63}
+{'user_id': 127, 'first_name': 'Anika', 'last_name': 'Rodriguez', 'orders_placed': 3, 'spend': 18478.46}
+{'user_id': 31, 'first_name': 'Ayaan', 'last_name': 'Mehta', 'orders_placed': 3, 'spend': 18411.43}
+{'user_id': 6, 'first_name': 'Anika', 'last_name': 'Smith', 'orders_placed': 3, 'spend': 17976.57}
+
+[8] AGGREGATION — order status funnel
+----------------------------------------------------------------------
+{'status': 'delivered', 'cnt': 69, 'pct': 31.4}
+{'status': 'shipped', 'cnt': 43, 'pct': 19.5}
+{'status': 'confirmed', 'cnt': 37, 'pct': 16.8}
+{'status': 'cancelled', 'cnt': 27, 'pct': 12.3}
+{'status': 'pending', 'cnt': 22, 'pct': 10.0}
+{'status': 'returned', 'cnt': 22, 'pct': 10.0}
+
+[9] AGGREGATION — payment method success rate
+----------------------------------------------------------------------
+{'payment_method': 'debit_card', 'attempts': 43, 'successes': 34, 'pct': 79.1}
+{'payment_method': 'cod', 'attempts': 43, 'successes': 29, 'pct': 67.4}
+{'payment_method': 'net_banking', 'attempts': 40, 'successes': 28, 'pct': 70.0}
+{'payment_method': 'credit_card', 'attempts': 39, 'successes': 29, 'pct': 74.4}
+{'payment_method': 'upi', 'attempts': 32, 'successes': 26, 'pct': 81.3}
+{'payment_method': 'wallet', 'attempts': 23, 'successes': 21, 'pct': 91.3}
+
+[10] AGGREGATION — low-stock reorder alert (top 10)
+----------------------------------------------------------------------
+{'product_id': 'P00038', 'warehouse_location': 'Bengaluru-WH4', 'stock_quantity': 0, 'reorder_level': 20}
+{'product_id': 'P00078', 'warehouse_location': 'Hyderabad-WH1', 'stock_quantity': 5, 'reorder_level': 10}
+{'product_id': 'P00006', 'warehouse_location': 'Mumbai-WH2', 'stock_quantity': 14, 'reorder_level': 30}
+{'product_id': 'P00107', 'warehouse_location': 'Hyderabad-WH1', 'stock_quantity': 16, 'reorder_level': 30}
+{'product_id': 'P00004', 'warehouse_location': 'Bengaluru-WH4', 'stock_quantity': 18, 'reorder_level': 30}
+
+
+############################################################
+  NOSQL SIDE  —  CRUD + Aggregation query results
+############################################################
+
+[11] CREATE — insert a new product
+----------------------------------------------------------------------
+Inserted product _id = P00999
+
+[12] READ — electronics under $200, cheapest first
+----------------------------------------------------------------------
+{'_id': 'P00120', 'name': 'JBL Wireless Mouse', 'price': 76.39}
+{'_id': 'P00030', 'name': 'Xiaomi Mechanical Keyboard', 'price': 131.3}
+{'_id': 'P00102', 'name': 'OnePlus Power Bank', 'price': 195.48}
+
+[13] READ — reviews for product P00001, most helpful first
+----------------------------------------------------------------------
+(no reviews yet for this product)
+
+[14] UPDATE — change product price + increment review helpful_votes
+----------------------------------------------------------------------
+329.99
+
+[15] DELETE — remove the demo product created above
+----------------------------------------------------------------------
+Documents removed: 1
+
+[16] AGGREGATION — avg rating & review count per category (via $lookup)
+----------------------------------------------------------------------
+{'category': 'Sports & Fitness', 'avg_rating': 4.19, 'total_reviews': 43}
+{'category': 'Books', 'avg_rating': 4.17, 'total_reviews': 48}
+{'category': 'Home & Kitchen', 'avg_rating': 4.11, 'total_reviews': 57}
+{'category': 'Electronics', 'avg_rating': 3.81, 'total_reviews': 37}
+{'category': 'Fashion', 'avg_rating': 3.8, 'total_reviews': 65}
+
+[17] AGGREGATION — top 10 highest-rated products (>=3 reviews)
+----------------------------------------------------------------------
+{'name': 'Cosco Badminton Racket', 'brand': 'Cosco', 'avg_rating': 5.0, 'review_count': 3}
+{'name': 'Wilson Gym Gloves', 'brand': 'Wilson', 'avg_rating': 5.0, 'review_count': 5}
+{'name': 'Van Heusen Running Shoes', 'brand': 'Van Heusen', 'avg_rating': 5.0, 'review_count': 4}
+{'name': 'Nike Football', 'brand': 'Nike', 'avg_rating': 5.0, 'review_count': 3}
+{'name': 'Scholastic The Silent Patient', 'brand': 'Scholastic', 'avg_rating': 5.0, 'review_count': 3}
+{'name': 'Milton Dinner Set', 'brand': 'Milton', 'avg_rating': 4.8, 'review_count': 5}
+{'name': 'Dell Mechanical Keyboard', 'brand': 'Dell', 'avg_rating': 4.67, 'review_count': 3}
+{'name': 'Borosil Bed Sheet Set', 'brand': 'Borosil', 'avg_rating': 4.67, 'review_count': 3}
+{'name': 'Rupa Sapiens', 'brand': 'Rupa', 'avg_rating': 4.67, 'review_count': 3}
+{'name': 'Milton Air Fryer', 'brand': 'Milton', 'avg_rating': 4.5, 'review_count': 4}
+
+[18] AGGREGATION — action_type counts, last 30 days
+----------------------------------------------------------------------
+{'_id': 'click_recommendation', 'count': 21}
+{'_id': 'page_view', 'count': 20}
+{'_id': 'remove_from_cart', 'count': 19}
+{'_id': 'wishlist_add', 'count': 18}
+{'_id': 'checkout_start', 'count': 15}
+{'_id': 'search', 'count': 15}
+{'_id': 'add_to_cart', 'count': 13}
+
+[19] AGGREGATION — most-searched keywords
+----------------------------------------------------------------------
+{'_id': 'running shoes', 'searches': 13}
+{'_id': 'laptop bag', 'searches': 11}
+{'_id': 'yoga mat', 'searches': 11}
+{'_id': 'smartwatch', 'searches': 8}
+{'_id': 'air fryer', 'searches': 7}
+
+[20] CROSS-DATABASE — product detail combining NoSQL catalog + SQL live stock
+----------------------------------------------------------------------
+{'product': 'Penguin The Silent Patient', 'price': 196.44, 'live_stock': 608}

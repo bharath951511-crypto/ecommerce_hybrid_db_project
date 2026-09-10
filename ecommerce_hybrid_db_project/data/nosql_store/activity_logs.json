@@ -1,0 +1,4904 @@
+[
+ {
+  "_id": "L0000001",
+  "user_id": 149,
+  "session_id": "sess_805282",
+  "action_type": "page_view",
+  "timestamp": "2026-06-11T21:01:19.763265",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00047"
+  }
+ },
+ {
+  "_id": "L0000002",
+  "user_id": 11,
+  "session_id": "sess_464175",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-20T01:33:19.763284",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00092"
+  }
+ },
+ {
+  "_id": "L0000003",
+  "user_id": 134,
+  "session_id": "sess_139086",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-20T19:40:19.763289",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00111"
+  }
+ },
+ {
+  "_id": "L0000004",
+  "user_id": 7,
+  "session_id": "sess_326533",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-30T11:26:19.763293",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00086"
+  }
+ },
+ {
+  "_id": "L0000005",
+  "user_id": 75,
+  "session_id": "sess_532164",
+  "action_type": "checkout_start",
+  "timestamp": "2026-09-06T16:58:19.763297",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00013"
+  }
+ },
+ {
+  "_id": "L0000006",
+  "user_id": 89,
+  "session_id": "sess_469495",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-10T07:59:19.763301",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00046"
+  }
+ },
+ {
+  "_id": "L0000007",
+  "user_id": 118,
+  "session_id": "sess_833064",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-21T07:38:19.763304",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00042"
+  }
+ },
+ {
+  "_id": "L0000008",
+  "user_id": 143,
+  "session_id": "sess_908251",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-01T20:07:19.763307",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00027"
+  }
+ },
+ {
+  "_id": "L0000009",
+  "user_id": 90,
+  "session_id": "sess_918904",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-19T00:33:19.763311",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00097"
+  }
+ },
+ {
+  "_id": "L0000010",
+  "user_id": 138,
+  "session_id": "sess_875798",
+  "action_type": "page_view",
+  "timestamp": "2026-08-12T05:34:19.763314",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00046"
+  }
+ },
+ {
+  "_id": "L0000011",
+  "user_id": 24,
+  "session_id": "sess_770513",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-21T05:48:19.763317",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00118",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000012",
+  "user_id": 98,
+  "session_id": "sess_311968",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-07T17:56:19.763320",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00097"
+  }
+ },
+ {
+  "_id": "L0000013",
+  "user_id": 93,
+  "session_id": "sess_891434",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-21T11:07:19.763324",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00104",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000014",
+  "user_id": 149,
+  "session_id": "sess_425611",
+  "action_type": "page_view",
+  "timestamp": "2026-07-07T17:46:19.763327",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00025"
+  }
+ },
+ {
+  "_id": "L0000015",
+  "user_id": 144,
+  "session_id": "sess_664400",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-19T03:48:19.763330",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00097"
+  }
+ },
+ {
+  "_id": "L0000016",
+  "user_id": 24,
+  "session_id": "sess_194940",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-25T19:02:19.763333",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00026"
+  }
+ },
+ {
+  "_id": "L0000017",
+  "user_id": 88,
+  "session_id": "sess_658710",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-27T04:19:19.763336",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00019"
+  }
+ },
+ {
+  "_id": "L0000018",
+  "user_id": 76,
+  "session_id": "sess_743217",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-30T14:07:19.763340",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00109"
+  }
+ },
+ {
+  "_id": "L0000019",
+  "user_id": 141,
+  "session_id": "sess_262541",
+  "action_type": "search",
+  "timestamp": "2026-06-17T08:26:19.763344",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "query": "wireless headphones",
+   "results_count": 31
+  }
+ },
+ {
+  "_id": "L0000020",
+  "user_id": 57,
+  "session_id": "sess_357269",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-13T01:46:19.763347",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00107"
+  }
+ },
+ {
+  "_id": "L0000021",
+  "user_id": 4,
+  "session_id": "sess_411210",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-10T15:33:19.763350",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00019"
+  }
+ },
+ {
+  "_id": "L0000022",
+  "user_id": 113,
+  "session_id": "sess_534661",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-30T22:51:19.763353",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00108"
+  }
+ },
+ {
+  "_id": "L0000023",
+  "user_id": 133,
+  "session_id": "sess_709113",
+  "action_type": "search",
+  "timestamp": "2026-07-20T19:51:19.763357",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "query": "running shoes",
+   "results_count": 108
+  }
+ },
+ {
+  "_id": "L0000024",
+  "user_id": 94,
+  "session_id": "sess_942453",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-08T03:04:19.763360",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00091"
+  }
+ },
+ {
+  "_id": "L0000025",
+  "user_id": 92,
+  "session_id": "sess_180782",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-14T12:07:19.763363",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00041",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000026",
+  "user_id": 138,
+  "session_id": "sess_707081",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-25T12:29:19.763367",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00102"
+  }
+ },
+ {
+  "_id": "L0000027",
+  "user_id": 122,
+  "session_id": "sess_661365",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-01T12:36:19.763370",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00091"
+  }
+ },
+ {
+  "_id": "L0000028",
+  "user_id": 90,
+  "session_id": "sess_852420",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-12T19:52:19.763373",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00030"
+  }
+ },
+ {
+  "_id": "L0000029",
+  "user_id": 69,
+  "session_id": "sess_702154",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-09-04T01:48:19.763376",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00060"
+  }
+ },
+ {
+  "_id": "L0000030",
+  "user_id": 112,
+  "session_id": "sess_167798",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-20T15:52:19.763379",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00076"
+  }
+ },
+ {
+  "_id": "L0000031",
+  "user_id": 15,
+  "session_id": "sess_464488",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-10T18:18:19.763382",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00084"
+  }
+ },
+ {
+  "_id": "L0000032",
+  "user_id": 71,
+  "session_id": "sess_697429",
+  "action_type": "page_view",
+  "timestamp": "2026-08-08T17:26:19.763386",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00009"
+  }
+ },
+ {
+  "_id": "L0000033",
+  "user_id": 111,
+  "session_id": "sess_838425",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-24T04:14:19.763389",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00063"
+  }
+ },
+ {
+  "_id": "L0000034",
+  "user_id": 138,
+  "session_id": "sess_831073",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-16T07:06:19.763393",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00040"
+  }
+ },
+ {
+  "_id": "L0000035",
+  "user_id": 37,
+  "session_id": "sess_903524",
+  "action_type": "search",
+  "timestamp": "2026-07-02T18:50:19.763396",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "laptop bag",
+   "results_count": 52
+  }
+ },
+ {
+  "_id": "L0000036",
+  "user_id": 92,
+  "session_id": "sess_715983",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-26T13:48:19.763399",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00079",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000037",
+  "user_id": 42,
+  "session_id": "sess_868140",
+  "action_type": "page_view",
+  "timestamp": "2026-08-17T08:49:19.763402",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00053"
+  }
+ },
+ {
+  "_id": "L0000038",
+  "user_id": 47,
+  "session_id": "sess_130919",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-19T00:41:19.763406",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00107"
+  }
+ },
+ {
+  "_id": "L0000039",
+  "user_id": 25,
+  "session_id": "sess_523158",
+  "action_type": "page_view",
+  "timestamp": "2026-06-28T17:44:19.763409",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00012"
+  }
+ },
+ {
+  "_id": "L0000040",
+  "user_id": 122,
+  "session_id": "sess_245237",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-29T11:21:19.763412",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00049"
+  }
+ },
+ {
+  "_id": "L0000041",
+  "user_id": 111,
+  "session_id": "sess_364255",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-09T14:16:19.763415",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00023",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000042",
+  "user_id": 90,
+  "session_id": "sess_778664",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-21T14:06:19.763418",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00026",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000043",
+  "user_id": 66,
+  "session_id": "sess_121391",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-25T14:52:19.763421",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00068"
+  }
+ },
+ {
+  "_id": "L0000044",
+  "user_id": 44,
+  "session_id": "sess_101812",
+  "action_type": "page_view",
+  "timestamp": "2026-07-05T16:27:19.763424",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00013"
+  }
+ },
+ {
+  "_id": "L0000045",
+  "user_id": 146,
+  "session_id": "sess_690730",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-25T14:16:19.763428",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00040",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000046",
+  "user_id": 138,
+  "session_id": "sess_328981",
+  "action_type": "search",
+  "timestamp": "2026-07-28T12:32:19.763431",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "smartwatch",
+   "results_count": 23
+  }
+ },
+ {
+  "_id": "L0000047",
+  "user_id": 96,
+  "session_id": "sess_701866",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-19T01:42:19.763434",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00077"
+  }
+ },
+ {
+  "_id": "L0000048",
+  "user_id": 39,
+  "session_id": "sess_953919",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-16T15:48:19.763437",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00065"
+  }
+ },
+ {
+  "_id": "L0000049",
+  "user_id": 31,
+  "session_id": "sess_946415",
+  "action_type": "page_view",
+  "timestamp": "2026-08-02T07:21:19.763441",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00114"
+  }
+ },
+ {
+  "_id": "L0000050",
+  "user_id": 43,
+  "session_id": "sess_204565",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-09T09:49:19.763444",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00076",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000051",
+  "user_id": 117,
+  "session_id": "sess_790474",
+  "action_type": "search",
+  "timestamp": "2026-07-02T03:37:19.763447",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "yoga mat",
+   "results_count": 120
+  }
+ },
+ {
+  "_id": "L0000052",
+  "user_id": 142,
+  "session_id": "sess_168643",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-29T09:04:19.763450",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00086"
+  }
+ },
+ {
+  "_id": "L0000053",
+  "user_id": 104,
+  "session_id": "sess_143610",
+  "action_type": "search",
+  "timestamp": "2026-07-27T14:29:19.763454",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "smartwatch",
+   "results_count": 24
+  }
+ },
+ {
+  "_id": "L0000054",
+  "user_id": 134,
+  "session_id": "sess_195371",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-17T20:07:19.763457",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00013"
+  }
+ },
+ {
+  "_id": "L0000055",
+  "user_id": 137,
+  "session_id": "sess_647013",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-07-21T22:46:19.763460",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00074"
+  }
+ },
+ {
+  "_id": "L0000056",
+  "user_id": 115,
+  "session_id": "sess_900611",
+  "action_type": "search",
+  "timestamp": "2026-08-16T06:47:19.763463",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "yoga mat",
+   "results_count": 17
+  }
+ },
+ {
+  "_id": "L0000057",
+  "user_id": 97,
+  "session_id": "sess_186391",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-10T15:56:19.763466",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00056"
+  }
+ },
+ {
+  "_id": "L0000058",
+  "user_id": 124,
+  "session_id": "sess_739278",
+  "action_type": "page_view",
+  "timestamp": "2026-07-23T06:56:19.763469",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00072"
+  }
+ },
+ {
+  "_id": "L0000059",
+  "user_id": 15,
+  "session_id": "sess_653176",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-09-05T10:22:19.763472",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00099"
+  }
+ },
+ {
+  "_id": "L0000060",
+  "user_id": 139,
+  "session_id": "sess_281779",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-20T05:40:19.763476",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00096",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000061",
+  "user_id": 13,
+  "session_id": "sess_417661",
+  "action_type": "page_view",
+  "timestamp": "2026-07-23T10:05:19.763479",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00004"
+  }
+ },
+ {
+  "_id": "L0000062",
+  "user_id": 112,
+  "session_id": "sess_874415",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-07-06T23:33:19.763482",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00106"
+  }
+ },
+ {
+  "_id": "L0000063",
+  "user_id": 12,
+  "session_id": "sess_324912",
+  "action_type": "search",
+  "timestamp": "2026-08-29T02:16:19.763485",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "yoga mat",
+   "results_count": 87
+  }
+ },
+ {
+  "_id": "L0000064",
+  "user_id": 53,
+  "session_id": "sess_619333",
+  "action_type": "search",
+  "timestamp": "2026-08-14T21:47:19.763488",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "wireless headphones",
+   "results_count": 91
+  }
+ },
+ {
+  "_id": "L0000065",
+  "user_id": 98,
+  "session_id": "sess_316037",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-14T12:28:19.763491",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00006"
+  }
+ },
+ {
+  "_id": "L0000066",
+  "user_id": 85,
+  "session_id": "sess_285658",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-23T09:04:19.763495",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00116",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000067",
+  "user_id": 40,
+  "session_id": "sess_248551",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-26T08:48:19.763498",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00006"
+  }
+ },
+ {
+  "_id": "L0000068",
+  "user_id": 109,
+  "session_id": "sess_813446",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-28T17:32:19.763501",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00113"
+  }
+ },
+ {
+  "_id": "L0000069",
+  "user_id": 70,
+  "session_id": "sess_529080",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-14T16:01:19.763505",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00027"
+  }
+ },
+ {
+  "_id": "L0000070",
+  "user_id": 72,
+  "session_id": "sess_983566",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-17T01:11:19.763508",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00049"
+  }
+ },
+ {
+  "_id": "L0000071",
+  "user_id": 102,
+  "session_id": "sess_143829",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-13T02:19:19.763511",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00081"
+  }
+ },
+ {
+  "_id": "L0000072",
+  "user_id": 30,
+  "session_id": "sess_220878",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-21T01:23:19.763514",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00010"
+  }
+ },
+ {
+  "_id": "L0000073",
+  "user_id": 66,
+  "session_id": "sess_813981",
+  "action_type": "search",
+  "timestamp": "2026-06-14T04:09:19.763518",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "yoga mat",
+   "results_count": 21
+  }
+ },
+ {
+  "_id": "L0000074",
+  "user_id": 146,
+  "session_id": "sess_374201",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-28T13:02:19.763521",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00037"
+  }
+ },
+ {
+  "_id": "L0000075",
+  "user_id": 143,
+  "session_id": "sess_987571",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-09T10:19:19.763524",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00012"
+  }
+ },
+ {
+  "_id": "L0000076",
+  "user_id": 123,
+  "session_id": "sess_214655",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-27T09:25:19.763527",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00061"
+  }
+ },
+ {
+  "_id": "L0000077",
+  "user_id": 22,
+  "session_id": "sess_899582",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-14T14:12:19.763530",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00024"
+  }
+ },
+ {
+  "_id": "L0000078",
+  "user_id": 113,
+  "session_id": "sess_874212",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-23T01:49:19.763533",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00048"
+  }
+ },
+ {
+  "_id": "L0000079",
+  "user_id": 129,
+  "session_id": "sess_904037",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-17T09:41:19.763537",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00085"
+  }
+ },
+ {
+  "_id": "L0000080",
+  "user_id": 40,
+  "session_id": "sess_457928",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-09T11:05:19.763540",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00073",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000081",
+  "user_id": 15,
+  "session_id": "sess_510320",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-24T12:09:19.763543",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00116"
+  }
+ },
+ {
+  "_id": "L0000082",
+  "user_id": 48,
+  "session_id": "sess_757681",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-17T05:45:19.763546",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00029"
+  }
+ },
+ {
+  "_id": "L0000083",
+  "user_id": 113,
+  "session_id": "sess_172753",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-09T20:54:19.763549",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00004"
+  }
+ },
+ {
+  "_id": "L0000084",
+  "user_id": 141,
+  "session_id": "sess_432979",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-09-03T12:44:19.763553",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00021",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000085",
+  "user_id": 137,
+  "session_id": "sess_118310",
+  "action_type": "page_view",
+  "timestamp": "2026-06-22T17:17:19.763556",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00067"
+  }
+ },
+ {
+  "_id": "L0000086",
+  "user_id": 10,
+  "session_id": "sess_250456",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-27T19:13:19.763559",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00048"
+  }
+ },
+ {
+  "_id": "L0000087",
+  "user_id": 145,
+  "session_id": "sess_161255",
+  "action_type": "page_view",
+  "timestamp": "2026-07-22T22:20:19.763562",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00001"
+  }
+ },
+ {
+  "_id": "L0000088",
+  "user_id": 10,
+  "session_id": "sess_691018",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-03T14:26:19.763565",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00098"
+  }
+ },
+ {
+  "_id": "L0000089",
+  "user_id": 147,
+  "session_id": "sess_776111",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-23T06:44:19.763568",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00120"
+  }
+ },
+ {
+  "_id": "L0000090",
+  "user_id": 61,
+  "session_id": "sess_816052",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-07-09T21:11:19.763571",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00058"
+  }
+ },
+ {
+  "_id": "L0000091",
+  "user_id": 117,
+  "session_id": "sess_662513",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-26T09:18:19.763575",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00062",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000092",
+  "user_id": 42,
+  "session_id": "sess_485957",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-09-08T02:36:19.763579",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00050",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000093",
+  "user_id": 106,
+  "session_id": "sess_845208",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-03T09:02:19.763582",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00006",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000094",
+  "user_id": 104,
+  "session_id": "sess_541597",
+  "action_type": "search",
+  "timestamp": "2026-07-19T01:41:19.763586",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "running shoes",
+   "results_count": 120
+  }
+ },
+ {
+  "_id": "L0000095",
+  "user_id": 119,
+  "session_id": "sess_481220",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-29T05:45:19.763589",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00050"
+  }
+ },
+ {
+  "_id": "L0000096",
+  "user_id": 136,
+  "session_id": "sess_315917",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-10T09:42:19.763592",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00093"
+  }
+ },
+ {
+  "_id": "L0000097",
+  "user_id": 94,
+  "session_id": "sess_585884",
+  "action_type": "search",
+  "timestamp": "2026-07-02T03:04:19.763595",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "running shoes",
+   "results_count": 111
+  }
+ },
+ {
+  "_id": "L0000098",
+  "user_id": 101,
+  "session_id": "sess_248196",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-12T12:53:19.763599",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00028"
+  }
+ },
+ {
+  "_id": "L0000099",
+  "user_id": 106,
+  "session_id": "sess_153357",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-16T10:06:19.763602",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00039"
+  }
+ },
+ {
+  "_id": "L0000100",
+  "user_id": 99,
+  "session_id": "sess_642638",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-07-17T10:59:19.763605",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00085"
+  }
+ },
+ {
+  "_id": "L0000101",
+  "user_id": 146,
+  "session_id": "sess_799393",
+  "action_type": "page_view",
+  "timestamp": "2026-08-19T07:40:19.763608",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00050"
+  }
+ },
+ {
+  "_id": "L0000102",
+  "user_id": 40,
+  "session_id": "sess_772386",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-20T21:37:19.763611",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00099"
+  }
+ },
+ {
+  "_id": "L0000103",
+  "user_id": 106,
+  "session_id": "sess_431864",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-13T08:32:19.763614",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00020"
+  }
+ },
+ {
+  "_id": "L0000104",
+  "user_id": 125,
+  "session_id": "sess_431575",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-23T20:54:19.763617",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00098"
+  }
+ },
+ {
+  "_id": "L0000105",
+  "user_id": 25,
+  "session_id": "sess_925189",
+  "action_type": "checkout_start",
+  "timestamp": "2026-09-02T14:26:19.763620",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00087"
+  }
+ },
+ {
+  "_id": "L0000106",
+  "user_id": 24,
+  "session_id": "sess_428512",
+  "action_type": "page_view",
+  "timestamp": "2026-07-27T09:40:19.763624",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00043"
+  }
+ },
+ {
+  "_id": "L0000107",
+  "user_id": 17,
+  "session_id": "sess_480570",
+  "action_type": "search",
+  "timestamp": "2026-06-23T05:50:19.763627",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "yoga mat",
+   "results_count": 107
+  }
+ },
+ {
+  "_id": "L0000108",
+  "user_id": 87,
+  "session_id": "sess_837781",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-19T07:08:19.763630",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00061"
+  }
+ },
+ {
+  "_id": "L0000109",
+  "user_id": 39,
+  "session_id": "sess_271187",
+  "action_type": "page_view",
+  "timestamp": "2026-07-19T12:53:19.763633",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00021"
+  }
+ },
+ {
+  "_id": "L0000110",
+  "user_id": 144,
+  "session_id": "sess_679150",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-22T00:43:19.763636",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00021"
+  }
+ },
+ {
+  "_id": "L0000111",
+  "user_id": 38,
+  "session_id": "sess_566515",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-29T15:19:19.763640",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00015",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000112",
+  "user_id": 123,
+  "session_id": "sess_278738",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-09-07T21:43:19.763643",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00049"
+  }
+ },
+ {
+  "_id": "L0000113",
+  "user_id": 113,
+  "session_id": "sess_713302",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-29T10:59:19.763646",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00120"
+  }
+ },
+ {
+  "_id": "L0000114",
+  "user_id": 146,
+  "session_id": "sess_460530",
+  "action_type": "page_view",
+  "timestamp": "2026-07-29T13:31:19.763649",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00086"
+  }
+ },
+ {
+  "_id": "L0000115",
+  "user_id": 77,
+  "session_id": "sess_810277",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-22T12:20:19.763652",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00023",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000116",
+  "user_id": 83,
+  "session_id": "sess_406550",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-31T04:49:19.763655",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00082"
+  }
+ },
+ {
+  "_id": "L0000117",
+  "user_id": 107,
+  "session_id": "sess_277272",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-26T08:15:19.763659",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00003"
+  }
+ },
+ {
+  "_id": "L0000118",
+  "user_id": 7,
+  "session_id": "sess_613392",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-01T11:24:19.763662",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00067"
+  }
+ },
+ {
+  "_id": "L0000119",
+  "user_id": 79,
+  "session_id": "sess_375894",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-15T03:06:19.763665",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00090"
+  }
+ },
+ {
+  "_id": "L0000120",
+  "user_id": 118,
+  "session_id": "sess_791442",
+  "action_type": "page_view",
+  "timestamp": "2026-08-31T05:52:19.763668",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00096"
+  }
+ },
+ {
+  "_id": "L0000121",
+  "user_id": 3,
+  "session_id": "sess_870327",
+  "action_type": "page_view",
+  "timestamp": "2026-06-29T16:08:19.763671",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00112"
+  }
+ },
+ {
+  "_id": "L0000122",
+  "user_id": 121,
+  "session_id": "sess_498476",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-23T14:43:19.763674",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00116"
+  }
+ },
+ {
+  "_id": "L0000123",
+  "user_id": 97,
+  "session_id": "sess_451938",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-25T23:33:19.763677",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00090"
+  }
+ },
+ {
+  "_id": "L0000124",
+  "user_id": 88,
+  "session_id": "sess_238768",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-27T17:11:19.763680",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00053"
+  }
+ },
+ {
+  "_id": "L0000125",
+  "user_id": 73,
+  "session_id": "sess_379626",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-31T01:29:19.763683",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00063"
+  }
+ },
+ {
+  "_id": "L0000126",
+  "user_id": 82,
+  "session_id": "sess_633506",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-27T15:36:19.763687",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00104"
+  }
+ },
+ {
+  "_id": "L0000127",
+  "user_id": 46,
+  "session_id": "sess_491526",
+  "action_type": "search",
+  "timestamp": "2026-09-02T11:51:19.763690",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "query": "running shoes",
+   "results_count": 9
+  }
+ },
+ {
+  "_id": "L0000128",
+  "user_id": 23,
+  "session_id": "sess_179074",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-09-08T17:27:19.763693",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00100"
+  }
+ },
+ {
+  "_id": "L0000129",
+  "user_id": 19,
+  "session_id": "sess_263833",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-27T19:32:19.763696",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00112"
+  }
+ },
+ {
+  "_id": "L0000130",
+  "user_id": 28,
+  "session_id": "sess_742321",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-26T14:42:19.763700",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00101"
+  }
+ },
+ {
+  "_id": "L0000131",
+  "user_id": 21,
+  "session_id": "sess_294589",
+  "action_type": "search",
+  "timestamp": "2026-08-29T18:22:19.763703",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "air fryer",
+   "results_count": 118
+  }
+ },
+ {
+  "_id": "L0000132",
+  "user_id": 60,
+  "session_id": "sess_320430",
+  "action_type": "page_view",
+  "timestamp": "2026-09-03T18:22:19.763706",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00102"
+  }
+ },
+ {
+  "_id": "L0000133",
+  "user_id": 136,
+  "session_id": "sess_301996",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-12T09:42:19.763709",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00081"
+  }
+ },
+ {
+  "_id": "L0000134",
+  "user_id": 48,
+  "session_id": "sess_592002",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-04T16:44:19.763712",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00091"
+  }
+ },
+ {
+  "_id": "L0000135",
+  "user_id": 48,
+  "session_id": "sess_632240",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-09-10T14:16:19.763715",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00057"
+  }
+ },
+ {
+  "_id": "L0000136",
+  "user_id": 139,
+  "session_id": "sess_703386",
+  "action_type": "search",
+  "timestamp": "2026-08-16T18:20:19.763718",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "running shoes",
+   "results_count": 112
+  }
+ },
+ {
+  "_id": "L0000137",
+  "user_id": 48,
+  "session_id": "sess_989838",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-31T09:17:19.763721",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00025"
+  }
+ },
+ {
+  "_id": "L0000138",
+  "user_id": 106,
+  "session_id": "sess_631265",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-21T07:14:19.763724",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00038"
+  }
+ },
+ {
+  "_id": "L0000139",
+  "user_id": 89,
+  "session_id": "sess_871168",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-11T00:27:19.763727",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00106"
+  }
+ },
+ {
+  "_id": "L0000140",
+  "user_id": 42,
+  "session_id": "sess_167793",
+  "action_type": "checkout_start",
+  "timestamp": "2026-09-03T13:56:19.763730",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00037"
+  }
+ },
+ {
+  "_id": "L0000141",
+  "user_id": 21,
+  "session_id": "sess_806776",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-15T15:40:19.763734",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00080",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000142",
+  "user_id": 93,
+  "session_id": "sess_831985",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-14T20:44:19.763737",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00041"
+  }
+ },
+ {
+  "_id": "L0000143",
+  "user_id": 82,
+  "session_id": "sess_572684",
+  "action_type": "page_view",
+  "timestamp": "2026-07-26T16:36:19.763740",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00034"
+  }
+ },
+ {
+  "_id": "L0000144",
+  "user_id": 77,
+  "session_id": "sess_900496",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-10T05:53:19.763743",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00064"
+  }
+ },
+ {
+  "_id": "L0000145",
+  "user_id": 44,
+  "session_id": "sess_144773",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-14T05:01:19.763746",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00030"
+  }
+ },
+ {
+  "_id": "L0000146",
+  "user_id": 104,
+  "session_id": "sess_586144",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-13T02:18:19.763749",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00042"
+  }
+ },
+ {
+  "_id": "L0000147",
+  "user_id": 36,
+  "session_id": "sess_926556",
+  "action_type": "search",
+  "timestamp": "2026-08-01T03:32:19.763753",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "query": "smartwatch",
+   "results_count": 3
+  }
+ },
+ {
+  "_id": "L0000148",
+  "user_id": 94,
+  "session_id": "sess_114627",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-16T18:30:19.763756",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00052"
+  }
+ },
+ {
+  "_id": "L0000149",
+  "user_id": 56,
+  "session_id": "sess_199453",
+  "action_type": "search",
+  "timestamp": "2026-09-08T03:57:19.763760",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "laptop bag",
+   "results_count": 23
+  }
+ },
+ {
+  "_id": "L0000150",
+  "user_id": 6,
+  "session_id": "sess_621480",
+  "action_type": "search",
+  "timestamp": "2026-07-22T11:08:19.763763",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "yoga mat",
+   "results_count": 25
+  }
+ },
+ {
+  "_id": "L0000151",
+  "user_id": 59,
+  "session_id": "sess_299172",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-09T20:41:19.763766",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00036"
+  }
+ },
+ {
+  "_id": "L0000152",
+  "user_id": 41,
+  "session_id": "sess_611015",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-17T15:05:19.763769",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00056"
+  }
+ },
+ {
+  "_id": "L0000153",
+  "user_id": 123,
+  "session_id": "sess_737343",
+  "action_type": "page_view",
+  "timestamp": "2026-08-04T12:12:19.763772",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00042"
+  }
+ },
+ {
+  "_id": "L0000154",
+  "user_id": 56,
+  "session_id": "sess_536569",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-07-10T16:08:19.763775",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00103"
+  }
+ },
+ {
+  "_id": "L0000155",
+  "user_id": 80,
+  "session_id": "sess_817286",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-23T02:48:19.763778",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00044"
+  }
+ },
+ {
+  "_id": "L0000156",
+  "user_id": 136,
+  "session_id": "sess_395590",
+  "action_type": "page_view",
+  "timestamp": "2026-07-28T17:04:19.763781",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00017"
+  }
+ },
+ {
+  "_id": "L0000157",
+  "user_id": 145,
+  "session_id": "sess_596524",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-09-02T15:59:19.763784",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00048"
+  }
+ },
+ {
+  "_id": "L0000158",
+  "user_id": 84,
+  "session_id": "sess_821715",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-12T05:47:19.763788",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00032",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000159",
+  "user_id": 88,
+  "session_id": "sess_705258",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-29T18:15:19.763791",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00072"
+  }
+ },
+ {
+  "_id": "L0000160",
+  "user_id": 59,
+  "session_id": "sess_842501",
+  "action_type": "search",
+  "timestamp": "2026-06-26T21:12:19.763794",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "air fryer",
+   "results_count": 73
+  }
+ },
+ {
+  "_id": "L0000161",
+  "user_id": 145,
+  "session_id": "sess_592571",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-09-08T05:55:19.763797",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00063"
+  }
+ },
+ {
+  "_id": "L0000162",
+  "user_id": 38,
+  "session_id": "sess_753899",
+  "action_type": "page_view",
+  "timestamp": "2026-07-31T13:54:19.763800",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00097"
+  }
+ },
+ {
+  "_id": "L0000163",
+  "user_id": 69,
+  "session_id": "sess_170176",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-15T03:38:19.763803",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00078"
+  }
+ },
+ {
+  "_id": "L0000164",
+  "user_id": 94,
+  "session_id": "sess_988954",
+  "action_type": "search",
+  "timestamp": "2026-09-03T01:12:19.763807",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "air fryer",
+   "results_count": 18
+  }
+ },
+ {
+  "_id": "L0000165",
+  "user_id": 124,
+  "session_id": "sess_689171",
+  "action_type": "search",
+  "timestamp": "2026-08-23T08:07:19.763810",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "query": "yoga mat",
+   "results_count": 45
+  }
+ },
+ {
+  "_id": "L0000166",
+  "user_id": 138,
+  "session_id": "sess_309776",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-20T09:28:19.763813",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00078"
+  }
+ },
+ {
+  "_id": "L0000167",
+  "user_id": 76,
+  "session_id": "sess_869046",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-09-02T16:31:19.763816",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00016"
+  }
+ },
+ {
+  "_id": "L0000168",
+  "user_id": 64,
+  "session_id": "sess_929118",
+  "action_type": "search",
+  "timestamp": "2026-07-24T02:43:19.763819",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "laptop bag",
+   "results_count": 36
+  }
+ },
+ {
+  "_id": "L0000169",
+  "user_id": 67,
+  "session_id": "sess_314161",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-23T07:26:19.763822",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00039"
+  }
+ },
+ {
+  "_id": "L0000170",
+  "user_id": 95,
+  "session_id": "sess_587524",
+  "action_type": "page_view",
+  "timestamp": "2026-08-23T01:47:19.763826",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00011"
+  }
+ },
+ {
+  "_id": "L0000171",
+  "user_id": 114,
+  "session_id": "sess_895304",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-01T12:28:19.763829",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00021"
+  }
+ },
+ {
+  "_id": "L0000172",
+  "user_id": 117,
+  "session_id": "sess_398595",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-20T22:19:19.763832",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00036",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000173",
+  "user_id": 84,
+  "session_id": "sess_679417",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-11T05:18:19.763835",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00016",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000174",
+  "user_id": 112,
+  "session_id": "sess_777724",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-31T04:16:19.763838",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00071",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000175",
+  "user_id": 73,
+  "session_id": "sess_439753",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-29T22:25:19.763842",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00108",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000176",
+  "user_id": 34,
+  "session_id": "sess_620803",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-09-02T14:19:19.763845",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00093"
+  }
+ },
+ {
+  "_id": "L0000177",
+  "user_id": 61,
+  "session_id": "sess_196321",
+  "action_type": "search",
+  "timestamp": "2026-07-26T05:06:19.763848",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "query": "laptop bag",
+   "results_count": 20
+  }
+ },
+ {
+  "_id": "L0000178",
+  "user_id": 18,
+  "session_id": "sess_616377",
+  "action_type": "page_view",
+  "timestamp": "2026-07-20T23:24:19.763851",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00044"
+  }
+ },
+ {
+  "_id": "L0000179",
+  "user_id": 102,
+  "session_id": "sess_828326",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-21T22:35:19.763854",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00083"
+  }
+ },
+ {
+  "_id": "L0000180",
+  "user_id": 41,
+  "session_id": "sess_220847",
+  "action_type": "page_view",
+  "timestamp": "2026-08-08T09:12:19.763857",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00058"
+  }
+ },
+ {
+  "_id": "L0000181",
+  "user_id": 14,
+  "session_id": "sess_774132",
+  "action_type": "page_view",
+  "timestamp": "2026-06-13T08:57:19.763860",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00004"
+  }
+ },
+ {
+  "_id": "L0000182",
+  "user_id": 60,
+  "session_id": "sess_260044",
+  "action_type": "page_view",
+  "timestamp": "2026-08-24T00:07:19.763863",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00029"
+  }
+ },
+ {
+  "_id": "L0000183",
+  "user_id": 102,
+  "session_id": "sess_120191",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-07T06:56:19.763867",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00097",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000184",
+  "user_id": 18,
+  "session_id": "sess_142079",
+  "action_type": "page_view",
+  "timestamp": "2026-08-15T22:25:19.763870",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00071"
+  }
+ },
+ {
+  "_id": "L0000185",
+  "user_id": 2,
+  "session_id": "sess_466353",
+  "action_type": "search",
+  "timestamp": "2026-06-13T13:50:19.763873",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "laptop bag",
+   "results_count": 62
+  }
+ },
+ {
+  "_id": "L0000186",
+  "user_id": 102,
+  "session_id": "sess_323114",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-21T23:27:19.763876",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00116",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000187",
+  "user_id": 69,
+  "session_id": "sess_683283",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-25T00:03:19.763879",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00037"
+  }
+ },
+ {
+  "_id": "L0000188",
+  "user_id": 86,
+  "session_id": "sess_305282",
+  "action_type": "search",
+  "timestamp": "2026-07-31T08:02:19.763882",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "laptop bag",
+   "results_count": 32
+  }
+ },
+ {
+  "_id": "L0000189",
+  "user_id": 8,
+  "session_id": "sess_567186",
+  "action_type": "page_view",
+  "timestamp": "2026-06-24T19:45:19.763885",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00058"
+  }
+ },
+ {
+  "_id": "L0000190",
+  "user_id": 48,
+  "session_id": "sess_218167",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-09-05T03:36:19.763888",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00027"
+  }
+ },
+ {
+  "_id": "L0000191",
+  "user_id": 146,
+  "session_id": "sess_871440",
+  "action_type": "page_view",
+  "timestamp": "2026-08-02T17:44:19.763891",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00026"
+  }
+ },
+ {
+  "_id": "L0000192",
+  "user_id": 119,
+  "session_id": "sess_157008",
+  "action_type": "search",
+  "timestamp": "2026-06-19T20:13:19.763894",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "yoga mat",
+   "results_count": 46
+  }
+ },
+ {
+  "_id": "L0000193",
+  "user_id": 131,
+  "session_id": "sess_124969",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-02T16:14:19.763898",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00028"
+  }
+ },
+ {
+  "_id": "L0000194",
+  "user_id": 86,
+  "session_id": "sess_316376",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-08T17:03:19.763900",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00111"
+  }
+ },
+ {
+  "_id": "L0000195",
+  "user_id": 101,
+  "session_id": "sess_731046",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-20T00:57:19.763904",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00059"
+  }
+ },
+ {
+  "_id": "L0000196",
+  "user_id": 64,
+  "session_id": "sess_181447",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-24T12:31:19.763907",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00037"
+  }
+ },
+ {
+  "_id": "L0000197",
+  "user_id": 13,
+  "session_id": "sess_998803",
+  "action_type": "page_view",
+  "timestamp": "2026-09-09T07:28:19.763910",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00080"
+  }
+ },
+ {
+  "_id": "L0000198",
+  "user_id": 98,
+  "session_id": "sess_864147",
+  "action_type": "page_view",
+  "timestamp": "2026-06-30T11:21:19.763913",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00057"
+  }
+ },
+ {
+  "_id": "L0000199",
+  "user_id": 49,
+  "session_id": "sess_543721",
+  "action_type": "page_view",
+  "timestamp": "2026-07-25T14:10:19.763916",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00028"
+  }
+ },
+ {
+  "_id": "L0000200",
+  "user_id": 9,
+  "session_id": "sess_225909",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-03T12:11:19.763919",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00039"
+  }
+ },
+ {
+  "_id": "L0000201",
+  "user_id": 8,
+  "session_id": "sess_599651",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-19T16:20:19.763923",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00016"
+  }
+ },
+ {
+  "_id": "L0000202",
+  "user_id": 149,
+  "session_id": "sess_828674",
+  "action_type": "page_view",
+  "timestamp": "2026-07-01T08:10:19.763926",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00059"
+  }
+ },
+ {
+  "_id": "L0000203",
+  "user_id": 17,
+  "session_id": "sess_866964",
+  "action_type": "page_view",
+  "timestamp": "2026-06-14T12:14:19.763929",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00062"
+  }
+ },
+ {
+  "_id": "L0000204",
+  "user_id": 97,
+  "session_id": "sess_131350",
+  "action_type": "page_view",
+  "timestamp": "2026-09-06T01:00:19.763932",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00087"
+  }
+ },
+ {
+  "_id": "L0000205",
+  "user_id": 45,
+  "session_id": "sess_113913",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-29T14:45:19.763935",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00053"
+  }
+ },
+ {
+  "_id": "L0000206",
+  "user_id": 73,
+  "session_id": "sess_853790",
+  "action_type": "page_view",
+  "timestamp": "2026-07-11T09:36:19.763938",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00091"
+  }
+ },
+ {
+  "_id": "L0000207",
+  "user_id": 49,
+  "session_id": "sess_346225",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-14T01:36:19.763941",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00086",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000208",
+  "user_id": 145,
+  "session_id": "sess_975972",
+  "action_type": "page_view",
+  "timestamp": "2026-07-16T22:43:19.763944",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00112"
+  }
+ },
+ {
+  "_id": "L0000209",
+  "user_id": 13,
+  "session_id": "sess_400434",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-26T13:49:19.763948",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00092"
+  }
+ },
+ {
+  "_id": "L0000210",
+  "user_id": 140,
+  "session_id": "sess_271856",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-24T18:30:19.763951",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00106",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000211",
+  "user_id": 83,
+  "session_id": "sess_870907",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-21T05:01:19.763954",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00070",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000212",
+  "user_id": 120,
+  "session_id": "sess_464314",
+  "action_type": "search",
+  "timestamp": "2026-08-04T11:35:19.763957",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "smartwatch",
+   "results_count": 47
+  }
+ },
+ {
+  "_id": "L0000213",
+  "user_id": 139,
+  "session_id": "sess_527636",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-26T03:22:19.763960",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00087"
+  }
+ },
+ {
+  "_id": "L0000214",
+  "user_id": 36,
+  "session_id": "sess_448970",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-07-26T19:58:19.763963",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00114"
+  }
+ },
+ {
+  "_id": "L0000215",
+  "user_id": 43,
+  "session_id": "sess_144832",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-28T23:29:19.763966",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00111"
+  }
+ },
+ {
+  "_id": "L0000216",
+  "user_id": 88,
+  "session_id": "sess_666452",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-21T17:17:19.763969",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00077"
+  }
+ },
+ {
+  "_id": "L0000217",
+  "user_id": 53,
+  "session_id": "sess_964745",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-14T04:22:19.763973",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00018"
+  }
+ },
+ {
+  "_id": "L0000218",
+  "user_id": 29,
+  "session_id": "sess_625738",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-03T14:54:19.763975",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00113"
+  }
+ },
+ {
+  "_id": "L0000219",
+  "user_id": 66,
+  "session_id": "sess_677187",
+  "action_type": "page_view",
+  "timestamp": "2026-06-17T10:40:19.763978",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00001"
+  }
+ },
+ {
+  "_id": "L0000220",
+  "user_id": 84,
+  "session_id": "sess_867405",
+  "action_type": "search",
+  "timestamp": "2026-07-24T22:28:19.763982",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "smartwatch",
+   "results_count": 14
+  }
+ },
+ {
+  "_id": "L0000221",
+  "user_id": 101,
+  "session_id": "sess_329713",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-29T04:40:19.763985",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00085"
+  }
+ },
+ {
+  "_id": "L0000222",
+  "user_id": 117,
+  "session_id": "sess_263264",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-14T09:42:19.763988",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00029"
+  }
+ },
+ {
+  "_id": "L0000223",
+  "user_id": 28,
+  "session_id": "sess_619257",
+  "action_type": "page_view",
+  "timestamp": "2026-08-23T13:43:19.763991",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00103"
+  }
+ },
+ {
+  "_id": "L0000224",
+  "user_id": 78,
+  "session_id": "sess_965318",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-14T22:47:19.763994",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00097",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000225",
+  "user_id": 5,
+  "session_id": "sess_132608",
+  "action_type": "page_view",
+  "timestamp": "2026-08-04T13:14:19.763997",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00004"
+  }
+ },
+ {
+  "_id": "L0000226",
+  "user_id": 116,
+  "session_id": "sess_224731",
+  "action_type": "search",
+  "timestamp": "2026-07-18T04:45:19.764000",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "query": "wireless headphones",
+   "results_count": 32
+  }
+ },
+ {
+  "_id": "L0000227",
+  "user_id": 77,
+  "session_id": "sess_459839",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-23T05:14:19.764004",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00090"
+  }
+ },
+ {
+  "_id": "L0000228",
+  "user_id": 123,
+  "session_id": "sess_766076",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-23T22:25:19.764007",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00080",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000229",
+  "user_id": 128,
+  "session_id": "sess_435158",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-28T16:11:19.764010",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00005"
+  }
+ },
+ {
+  "_id": "L0000230",
+  "user_id": 99,
+  "session_id": "sess_889491",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-04T13:00:19.764013",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00111"
+  }
+ },
+ {
+  "_id": "L0000231",
+  "user_id": 90,
+  "session_id": "sess_818115",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-10T16:03:19.764016",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00080"
+  }
+ },
+ {
+  "_id": "L0000232",
+  "user_id": 23,
+  "session_id": "sess_597939",
+  "action_type": "page_view",
+  "timestamp": "2026-08-08T23:22:19.764019",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00098"
+  }
+ },
+ {
+  "_id": "L0000233",
+  "user_id": 25,
+  "session_id": "sess_576773",
+  "action_type": "page_view",
+  "timestamp": "2026-07-23T17:06:19.764022",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00093"
+  }
+ },
+ {
+  "_id": "L0000234",
+  "user_id": 83,
+  "session_id": "sess_424863",
+  "action_type": "search",
+  "timestamp": "2026-07-01T17:33:19.764025",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "smartwatch",
+   "results_count": 4
+  }
+ },
+ {
+  "_id": "L0000235",
+  "user_id": 106,
+  "session_id": "sess_199566",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-09-08T19:19:19.764029",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00079"
+  }
+ },
+ {
+  "_id": "L0000236",
+  "user_id": 130,
+  "session_id": "sess_566018",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-09-02T00:16:19.764032",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00120"
+  }
+ },
+ {
+  "_id": "L0000237",
+  "user_id": 145,
+  "session_id": "sess_507034",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-03T19:41:19.764035",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00090"
+  }
+ },
+ {
+  "_id": "L0000238",
+  "user_id": 31,
+  "session_id": "sess_832133",
+  "action_type": "page_view",
+  "timestamp": "2026-07-06T01:16:19.764038",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00075"
+  }
+ },
+ {
+  "_id": "L0000239",
+  "user_id": 42,
+  "session_id": "sess_141750",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-03T21:06:19.764041",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00110"
+  }
+ },
+ {
+  "_id": "L0000240",
+  "user_id": 40,
+  "session_id": "sess_978050",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-09-01T09:57:19.764044",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00088"
+  }
+ },
+ {
+  "_id": "L0000241",
+  "user_id": 100,
+  "session_id": "sess_913422",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-19T10:38:19.764047",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00001"
+  }
+ },
+ {
+  "_id": "L0000242",
+  "user_id": 47,
+  "session_id": "sess_334275",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-28T18:50:19.764050",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00039"
+  }
+ },
+ {
+  "_id": "L0000243",
+  "user_id": 114,
+  "session_id": "sess_947688",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-13T13:21:19.764053",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00030"
+  }
+ },
+ {
+  "_id": "L0000244",
+  "user_id": 145,
+  "session_id": "sess_124828",
+  "action_type": "search",
+  "timestamp": "2026-07-16T01:04:19.764056",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "running shoes",
+   "results_count": 94
+  }
+ },
+ {
+  "_id": "L0000245",
+  "user_id": 135,
+  "session_id": "sess_827514",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-24T19:53:19.764059",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00003"
+  }
+ },
+ {
+  "_id": "L0000246",
+  "user_id": 9,
+  "session_id": "sess_392450",
+  "action_type": "page_view",
+  "timestamp": "2026-07-16T22:43:19.764062",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00061"
+  }
+ },
+ {
+  "_id": "L0000247",
+  "user_id": 23,
+  "session_id": "sess_375540",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-17T04:57:19.764065",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00009"
+  }
+ },
+ {
+  "_id": "L0000248",
+  "user_id": 63,
+  "session_id": "sess_244207",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-26T16:17:19.764068",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00118"
+  }
+ },
+ {
+  "_id": "L0000249",
+  "user_id": 51,
+  "session_id": "sess_567771",
+  "action_type": "page_view",
+  "timestamp": "2026-06-17T23:04:19.764070",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00024"
+  }
+ },
+ {
+  "_id": "L0000250",
+  "user_id": 18,
+  "session_id": "sess_928373",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-18T10:50:19.764073",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00062"
+  }
+ },
+ {
+  "_id": "L0000251",
+  "user_id": 11,
+  "session_id": "sess_343529",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-16T12:08:19.764076",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00072"
+  }
+ },
+ {
+  "_id": "L0000252",
+  "user_id": 16,
+  "session_id": "sess_634979",
+  "action_type": "search",
+  "timestamp": "2026-09-09T12:54:19.764079",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "query": "wireless headphones",
+   "results_count": 47
+  }
+ },
+ {
+  "_id": "L0000253",
+  "user_id": 136,
+  "session_id": "sess_109287",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-03T12:07:19.764082",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00075"
+  }
+ },
+ {
+  "_id": "L0000254",
+  "user_id": 122,
+  "session_id": "sess_601508",
+  "action_type": "search",
+  "timestamp": "2026-07-11T10:21:19.764086",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "query": "running shoes",
+   "results_count": 24
+  }
+ },
+ {
+  "_id": "L0000255",
+  "user_id": 139,
+  "session_id": "sess_942918",
+  "action_type": "search",
+  "timestamp": "2026-09-01T11:45:19.764089",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "query": "laptop bag",
+   "results_count": 81
+  }
+ },
+ {
+  "_id": "L0000256",
+  "user_id": 18,
+  "session_id": "sess_600892",
+  "action_type": "search",
+  "timestamp": "2026-07-07T13:51:19.764092",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "running shoes",
+   "results_count": 110
+  }
+ },
+ {
+  "_id": "L0000257",
+  "user_id": 106,
+  "session_id": "sess_980563",
+  "action_type": "search",
+  "timestamp": "2026-06-22T05:13:19.764095",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "air fryer",
+   "results_count": 96
+  }
+ },
+ {
+  "_id": "L0000258",
+  "user_id": 16,
+  "session_id": "sess_888918",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-17T14:32:19.764098",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00053"
+  }
+ },
+ {
+  "_id": "L0000259",
+  "user_id": 96,
+  "session_id": "sess_509758",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-14T20:34:19.764101",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00004",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000260",
+  "user_id": 33,
+  "session_id": "sess_602651",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-23T23:31:19.764104",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00096"
+  }
+ },
+ {
+  "_id": "L0000261",
+  "user_id": 134,
+  "session_id": "sess_401599",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-09T14:00:19.764108",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00031"
+  }
+ },
+ {
+  "_id": "L0000262",
+  "user_id": 17,
+  "session_id": "sess_688971",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-30T17:30:19.764110",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00054"
+  }
+ },
+ {
+  "_id": "L0000263",
+  "user_id": 11,
+  "session_id": "sess_487470",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-06T04:10:19.764113",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00099"
+  }
+ },
+ {
+  "_id": "L0000264",
+  "user_id": 138,
+  "session_id": "sess_734698",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-31T06:33:19.764116",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00039"
+  }
+ },
+ {
+  "_id": "L0000265",
+  "user_id": 99,
+  "session_id": "sess_894210",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-13T21:43:19.764119",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00063"
+  }
+ },
+ {
+  "_id": "L0000266",
+  "user_id": 147,
+  "session_id": "sess_243935",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-07-12T06:22:19.764122",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00077"
+  }
+ },
+ {
+  "_id": "L0000267",
+  "user_id": 137,
+  "session_id": "sess_642111",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-23T20:23:19.764125",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00044"
+  }
+ },
+ {
+  "_id": "L0000268",
+  "user_id": 74,
+  "session_id": "sess_723309",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-07T09:07:19.764128",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00120",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000269",
+  "user_id": 90,
+  "session_id": "sess_421228",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-17T05:54:19.764131",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00073",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000270",
+  "user_id": 68,
+  "session_id": "sess_726797",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-17T18:45:19.764134",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00036"
+  }
+ },
+ {
+  "_id": "L0000271",
+  "user_id": 76,
+  "session_id": "sess_299193",
+  "action_type": "search",
+  "timestamp": "2026-06-14T19:04:19.764137",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "running shoes",
+   "results_count": 102
+  }
+ },
+ {
+  "_id": "L0000272",
+  "user_id": 83,
+  "session_id": "sess_314396",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-12T21:54:19.764140",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00071"
+  }
+ },
+ {
+  "_id": "L0000273",
+  "user_id": 75,
+  "session_id": "sess_769615",
+  "action_type": "search",
+  "timestamp": "2026-08-10T09:49:19.764143",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "query": "air fryer",
+   "results_count": 92
+  }
+ },
+ {
+  "_id": "L0000274",
+  "user_id": 128,
+  "session_id": "sess_493214",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-10T03:57:19.764147",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00024"
+  }
+ },
+ {
+  "_id": "L0000275",
+  "user_id": 146,
+  "session_id": "sess_581379",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-04T06:18:19.764149",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00120"
+  }
+ },
+ {
+  "_id": "L0000276",
+  "user_id": 32,
+  "session_id": "sess_494853",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-02T04:27:19.764152",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00010",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000277",
+  "user_id": 66,
+  "session_id": "sess_619103",
+  "action_type": "page_view",
+  "timestamp": "2026-07-13T22:50:19.764155",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00104"
+  }
+ },
+ {
+  "_id": "L0000278",
+  "user_id": 146,
+  "session_id": "sess_540919",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-16T08:24:19.764159",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00066"
+  }
+ },
+ {
+  "_id": "L0000279",
+  "user_id": 28,
+  "session_id": "sess_599508",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-17T04:07:19.764161",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00077"
+  }
+ },
+ {
+  "_id": "L0000280",
+  "user_id": 32,
+  "session_id": "sess_478887",
+  "action_type": "page_view",
+  "timestamp": "2026-09-04T14:33:19.764165",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00024"
+  }
+ },
+ {
+  "_id": "L0000281",
+  "user_id": 141,
+  "session_id": "sess_661221",
+  "action_type": "page_view",
+  "timestamp": "2026-08-07T11:37:19.764167",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00014"
+  }
+ },
+ {
+  "_id": "L0000282",
+  "user_id": 11,
+  "session_id": "sess_792371",
+  "action_type": "page_view",
+  "timestamp": "2026-06-30T15:27:19.764170",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00027"
+  }
+ },
+ {
+  "_id": "L0000283",
+  "user_id": 71,
+  "session_id": "sess_397992",
+  "action_type": "page_view",
+  "timestamp": "2026-07-17T09:13:19.764173",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00080"
+  }
+ },
+ {
+  "_id": "L0000284",
+  "user_id": 69,
+  "session_id": "sess_679459",
+  "action_type": "search",
+  "timestamp": "2026-07-27T09:18:19.764176",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "laptop bag",
+   "results_count": 73
+  }
+ },
+ {
+  "_id": "L0000285",
+  "user_id": 82,
+  "session_id": "sess_899383",
+  "action_type": "page_view",
+  "timestamp": "2026-08-13T10:36:19.764179",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00075"
+  }
+ },
+ {
+  "_id": "L0000286",
+  "user_id": 139,
+  "session_id": "sess_746233",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-09-08T11:22:19.764181",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00027"
+  }
+ },
+ {
+  "_id": "L0000287",
+  "user_id": 125,
+  "session_id": "sess_230614",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-29T08:33:19.764184",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00035"
+  }
+ },
+ {
+  "_id": "L0000288",
+  "user_id": 118,
+  "session_id": "sess_739219",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-20T10:29:19.764187",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00031"
+  }
+ },
+ {
+  "_id": "L0000289",
+  "user_id": 62,
+  "session_id": "sess_803763",
+  "action_type": "search",
+  "timestamp": "2026-08-02T02:50:19.764190",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "wireless headphones",
+   "results_count": 0
+  }
+ },
+ {
+  "_id": "L0000290",
+  "user_id": 99,
+  "session_id": "sess_567838",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-14T09:21:19.764193",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00109"
+  }
+ },
+ {
+  "_id": "L0000291",
+  "user_id": 114,
+  "session_id": "sess_564023",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-21T16:31:19.764195",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00053"
+  }
+ },
+ {
+  "_id": "L0000292",
+  "user_id": 98,
+  "session_id": "sess_124145",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-03T08:14:19.764198",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00097"
+  }
+ },
+ {
+  "_id": "L0000293",
+  "user_id": 135,
+  "session_id": "sess_458915",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-31T15:56:19.764201",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00056"
+  }
+ },
+ {
+  "_id": "L0000294",
+  "user_id": 114,
+  "session_id": "sess_736017",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-15T05:18:19.764204",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00050"
+  }
+ },
+ {
+  "_id": "L0000295",
+  "user_id": 97,
+  "session_id": "sess_276560",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-21T10:14:19.764206",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00077"
+  }
+ },
+ {
+  "_id": "L0000296",
+  "user_id": 64,
+  "session_id": "sess_849662",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-04T09:03:19.764209",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00052",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000297",
+  "user_id": 145,
+  "session_id": "sess_355928",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-19T18:23:19.764212",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00004"
+  }
+ },
+ {
+  "_id": "L0000298",
+  "user_id": 147,
+  "session_id": "sess_461951",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-07-26T04:26:19.764215",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00050"
+  }
+ },
+ {
+  "_id": "L0000299",
+  "user_id": 115,
+  "session_id": "sess_544740",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-30T03:11:19.764218",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00093"
+  }
+ },
+ {
+  "_id": "L0000300",
+  "user_id": 67,
+  "session_id": "sess_601775",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-21T11:13:19.764221",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00035",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000301",
+  "user_id": 133,
+  "session_id": "sess_728207",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-05T09:33:19.764223",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00083"
+  }
+ },
+ {
+  "_id": "L0000302",
+  "user_id": 13,
+  "session_id": "sess_897662",
+  "action_type": "page_view",
+  "timestamp": "2026-08-12T13:42:19.764226",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00047"
+  }
+ },
+ {
+  "_id": "L0000303",
+  "user_id": 142,
+  "session_id": "sess_152497",
+  "action_type": "search",
+  "timestamp": "2026-08-09T13:54:19.764229",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "query": "laptop bag",
+   "results_count": 89
+  }
+ },
+ {
+  "_id": "L0000304",
+  "user_id": 37,
+  "session_id": "sess_557067",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-06T11:13:19.764232",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00020",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000305",
+  "user_id": 134,
+  "session_id": "sess_170022",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-12T13:48:19.764235",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00022"
+  }
+ },
+ {
+  "_id": "L0000306",
+  "user_id": 46,
+  "session_id": "sess_402244",
+  "action_type": "page_view",
+  "timestamp": "2026-07-02T01:00:19.764238",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00084"
+  }
+ },
+ {
+  "_id": "L0000307",
+  "user_id": 51,
+  "session_id": "sess_731907",
+  "action_type": "search",
+  "timestamp": "2026-09-01T13:38:19.764241",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "wireless headphones",
+   "results_count": 103
+  }
+ },
+ {
+  "_id": "L0000308",
+  "user_id": 46,
+  "session_id": "sess_659890",
+  "action_type": "page_view",
+  "timestamp": "2026-08-26T01:52:19.764244",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00105"
+  }
+ },
+ {
+  "_id": "L0000309",
+  "user_id": 46,
+  "session_id": "sess_260137",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-04T11:12:19.764247",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00093"
+  }
+ },
+ {
+  "_id": "L0000310",
+  "user_id": 44,
+  "session_id": "sess_903575",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-06T23:35:19.764249",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00042"
+  }
+ },
+ {
+  "_id": "L0000311",
+  "user_id": 15,
+  "session_id": "sess_512935",
+  "action_type": "page_view",
+  "timestamp": "2026-08-24T11:24:19.764252",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00065"
+  }
+ },
+ {
+  "_id": "L0000312",
+  "user_id": 34,
+  "session_id": "sess_353677",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-25T04:51:19.764255",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00109"
+  }
+ },
+ {
+  "_id": "L0000313",
+  "user_id": 63,
+  "session_id": "sess_577043",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-18T18:20:19.764258",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00060"
+  }
+ },
+ {
+  "_id": "L0000314",
+  "user_id": 11,
+  "session_id": "sess_170332",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-24T12:27:19.764261",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00021"
+  }
+ },
+ {
+  "_id": "L0000315",
+  "user_id": 102,
+  "session_id": "sess_677047",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-02T17:02:19.764263",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00068",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000316",
+  "user_id": 134,
+  "session_id": "sess_471128",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-24T21:42:19.764267",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00083"
+  }
+ },
+ {
+  "_id": "L0000317",
+  "user_id": 65,
+  "session_id": "sess_648898",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-20T10:55:19.764270",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00097"
+  }
+ },
+ {
+  "_id": "L0000318",
+  "user_id": 10,
+  "session_id": "sess_316943",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-31T21:04:19.764272",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00017"
+  }
+ },
+ {
+  "_id": "L0000319",
+  "user_id": 106,
+  "session_id": "sess_501156",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-24T07:04:19.764275",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00015"
+  }
+ },
+ {
+  "_id": "L0000320",
+  "user_id": 51,
+  "session_id": "sess_886758",
+  "action_type": "page_view",
+  "timestamp": "2026-09-08T10:00:19.764278",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00063"
+  }
+ },
+ {
+  "_id": "L0000321",
+  "user_id": 36,
+  "session_id": "sess_780600",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-03T04:12:19.764281",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00058"
+  }
+ },
+ {
+  "_id": "L0000322",
+  "user_id": 113,
+  "session_id": "sess_365205",
+  "action_type": "search",
+  "timestamp": "2026-07-10T03:58:19.764284",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "query": "running shoes",
+   "results_count": 115
+  }
+ },
+ {
+  "_id": "L0000323",
+  "user_id": 53,
+  "session_id": "sess_585804",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-25T03:24:19.764287",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00048"
+  }
+ },
+ {
+  "_id": "L0000324",
+  "user_id": 26,
+  "session_id": "sess_409768",
+  "action_type": "search",
+  "timestamp": "2026-07-25T15:05:19.764290",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "air fryer",
+   "results_count": 118
+  }
+ },
+ {
+  "_id": "L0000325",
+  "user_id": 111,
+  "session_id": "sess_181918",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-26T07:05:19.764293",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00114"
+  }
+ },
+ {
+  "_id": "L0000326",
+  "user_id": 123,
+  "session_id": "sess_142492",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-11T14:05:19.764296",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00071"
+  }
+ },
+ {
+  "_id": "L0000327",
+  "user_id": 43,
+  "session_id": "sess_111593",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-29T11:40:19.764299",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00040",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000328",
+  "user_id": 16,
+  "session_id": "sess_125882",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-07T09:47:19.764301",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00035"
+  }
+ },
+ {
+  "_id": "L0000329",
+  "user_id": 115,
+  "session_id": "sess_523008",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-07-29T20:58:19.764304",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00004"
+  }
+ },
+ {
+  "_id": "L0000330",
+  "user_id": 95,
+  "session_id": "sess_153389",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-05T22:20:19.764307",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00042",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000331",
+  "user_id": 132,
+  "session_id": "sess_137912",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-06-16T22:41:19.764310",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00056"
+  }
+ },
+ {
+  "_id": "L0000332",
+  "user_id": 18,
+  "session_id": "sess_260778",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-24T05:45:19.764313",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00065"
+  }
+ },
+ {
+  "_id": "L0000333",
+  "user_id": 69,
+  "session_id": "sess_250944",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-23T10:22:19.764316",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00094"
+  }
+ },
+ {
+  "_id": "L0000334",
+  "user_id": 101,
+  "session_id": "sess_330935",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-09-05T15:08:19.764318",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00036"
+  }
+ },
+ {
+  "_id": "L0000335",
+  "user_id": 108,
+  "session_id": "sess_696948",
+  "action_type": "page_view",
+  "timestamp": "2026-08-17T02:36:19.764321",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00025"
+  }
+ },
+ {
+  "_id": "L0000336",
+  "user_id": 141,
+  "session_id": "sess_695787",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-09T10:27:19.764324",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00055"
+  }
+ },
+ {
+  "_id": "L0000337",
+  "user_id": 10,
+  "session_id": "sess_378404",
+  "action_type": "page_view",
+  "timestamp": "2026-07-11T14:13:19.764327",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00110"
+  }
+ },
+ {
+  "_id": "L0000338",
+  "user_id": 127,
+  "session_id": "sess_219786",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-30T18:58:19.764330",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00119"
+  }
+ },
+ {
+  "_id": "L0000339",
+  "user_id": 96,
+  "session_id": "sess_991912",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-12T07:51:19.764333",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00079"
+  }
+ },
+ {
+  "_id": "L0000340",
+  "user_id": 85,
+  "session_id": "sess_762201",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-17T05:54:19.764335",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00114"
+  }
+ },
+ {
+  "_id": "L0000341",
+  "user_id": 72,
+  "session_id": "sess_945350",
+  "action_type": "search",
+  "timestamp": "2026-06-26T09:13:19.764339",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "laptop bag",
+   "results_count": 87
+  }
+ },
+ {
+  "_id": "L0000342",
+  "user_id": 124,
+  "session_id": "sess_385410",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-30T00:08:19.764341",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00056"
+  }
+ },
+ {
+  "_id": "L0000343",
+  "user_id": 77,
+  "session_id": "sess_940615",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-09T12:35:19.764344",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00007"
+  }
+ },
+ {
+  "_id": "L0000344",
+  "user_id": 57,
+  "session_id": "sess_360820",
+  "action_type": "search",
+  "timestamp": "2026-07-13T11:28:19.764347",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "running shoes",
+   "results_count": 108
+  }
+ },
+ {
+  "_id": "L0000345",
+  "user_id": 93,
+  "session_id": "sess_532689",
+  "action_type": "page_view",
+  "timestamp": "2026-07-21T02:51:19.764350",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00065"
+  }
+ },
+ {
+  "_id": "L0000346",
+  "user_id": 42,
+  "session_id": "sess_753323",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-10T19:23:19.764353",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00011",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000347",
+  "user_id": 15,
+  "session_id": "sess_556784",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-21T03:18:19.764356",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00119"
+  }
+ },
+ {
+  "_id": "L0000348",
+  "user_id": 86,
+  "session_id": "sess_488371",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-26T07:12:19.764359",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00004"
+  }
+ },
+ {
+  "_id": "L0000349",
+  "user_id": 102,
+  "session_id": "sess_717006",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-14T04:00:19.764362",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00119"
+  }
+ },
+ {
+  "_id": "L0000350",
+  "user_id": 63,
+  "session_id": "sess_740231",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-20T06:17:19.764364",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00037"
+  }
+ },
+ {
+  "_id": "L0000351",
+  "user_id": 97,
+  "session_id": "sess_994643",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-31T13:22:19.764367",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00076"
+  }
+ },
+ {
+  "_id": "L0000352",
+  "user_id": 139,
+  "session_id": "sess_549359",
+  "action_type": "page_view",
+  "timestamp": "2026-07-09T13:28:19.764370",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00020"
+  }
+ },
+ {
+  "_id": "L0000353",
+  "user_id": 1,
+  "session_id": "sess_594097",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-19T15:19:19.764373",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00007"
+  }
+ },
+ {
+  "_id": "L0000354",
+  "user_id": 92,
+  "session_id": "sess_798412",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-29T14:25:19.764376",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00087",
+   "quantity": 3
+  }
+ },
+ {
+  "_id": "L0000355",
+  "user_id": 10,
+  "session_id": "sess_711176",
+  "action_type": "search",
+  "timestamp": "2026-08-31T14:48:19.764379",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "yoga mat",
+   "results_count": 12
+  }
+ },
+ {
+  "_id": "L0000356",
+  "user_id": 44,
+  "session_id": "sess_509850",
+  "action_type": "page_view",
+  "timestamp": "2026-07-10T13:10:19.764382",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00102"
+  }
+ },
+ {
+  "_id": "L0000357",
+  "user_id": 135,
+  "session_id": "sess_175165",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-24T07:19:19.764384",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00079"
+  }
+ },
+ {
+  "_id": "L0000358",
+  "user_id": 67,
+  "session_id": "sess_265039",
+  "action_type": "page_view",
+  "timestamp": "2026-06-19T17:55:19.764387",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00078"
+  }
+ },
+ {
+  "_id": "L0000359",
+  "user_id": 58,
+  "session_id": "sess_822502",
+  "action_type": "page_view",
+  "timestamp": "2026-08-05T15:02:19.764390",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00078"
+  }
+ },
+ {
+  "_id": "L0000360",
+  "user_id": 42,
+  "session_id": "sess_828664",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-12T02:05:19.764393",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00086"
+  }
+ },
+ {
+  "_id": "L0000361",
+  "user_id": 103,
+  "session_id": "sess_538272",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-11T06:45:19.764396",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00038"
+  }
+ },
+ {
+  "_id": "L0000362",
+  "user_id": 39,
+  "session_id": "sess_837394",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-08-22T15:22:19.764399",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00031",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000363",
+  "user_id": 31,
+  "session_id": "sess_254853",
+  "action_type": "page_view",
+  "timestamp": "2026-08-28T02:19:19.764401",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00113"
+  }
+ },
+ {
+  "_id": "L0000364",
+  "user_id": 86,
+  "session_id": "sess_821132",
+  "action_type": "search",
+  "timestamp": "2026-07-31T22:12:19.764404",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "query": "yoga mat",
+   "results_count": 98
+  }
+ },
+ {
+  "_id": "L0000365",
+  "user_id": 105,
+  "session_id": "sess_228574",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-19T18:45:19.764407",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00056"
+  }
+ },
+ {
+  "_id": "L0000366",
+  "user_id": 54,
+  "session_id": "sess_596215",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-19T15:04:19.764410",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00039"
+  }
+ },
+ {
+  "_id": "L0000367",
+  "user_id": 17,
+  "session_id": "sess_151288",
+  "action_type": "search",
+  "timestamp": "2026-09-06T08:03:19.764413",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "query": "running shoes",
+   "results_count": 44
+  }
+ },
+ {
+  "_id": "L0000368",
+  "user_id": 102,
+  "session_id": "sess_921794",
+  "action_type": "search",
+  "timestamp": "2026-06-12T05:59:19.764416",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "query": "smartwatch",
+   "results_count": 84
+  }
+ },
+ {
+  "_id": "L0000369",
+  "user_id": 109,
+  "session_id": "sess_790387",
+  "action_type": "search",
+  "timestamp": "2026-07-31T21:32:19.764419",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "query": "air fryer",
+   "results_count": 90
+  }
+ },
+ {
+  "_id": "L0000370",
+  "user_id": 43,
+  "session_id": "sess_362773",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-19T13:56:19.764422",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00001"
+  }
+ },
+ {
+  "_id": "L0000371",
+  "user_id": 62,
+  "session_id": "sess_637693",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-25T01:10:19.764425",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00006",
+   "quantity": 1
+  }
+ },
+ {
+  "_id": "L0000372",
+  "user_id": 3,
+  "session_id": "sess_762215",
+  "action_type": "search",
+  "timestamp": "2026-07-25T18:06:19.764428",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "smartwatch",
+   "results_count": 4
+  }
+ },
+ {
+  "_id": "L0000373",
+  "user_id": 87,
+  "session_id": "sess_102870",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-08-28T00:38:19.764431",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00048"
+  }
+ },
+ {
+  "_id": "L0000374",
+  "user_id": 55,
+  "session_id": "sess_254985",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-29T18:45:19.764434",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00026"
+  }
+ },
+ {
+  "_id": "L0000375",
+  "user_id": 136,
+  "session_id": "sess_509668",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-04T21:48:19.764437",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00036"
+  }
+ },
+ {
+  "_id": "L0000376",
+  "user_id": 11,
+  "session_id": "sess_577052",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-06-26T23:09:19.764440",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00056"
+  }
+ },
+ {
+  "_id": "L0000377",
+  "user_id": 73,
+  "session_id": "sess_448762",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-09-08T02:50:19.764442",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00006"
+  }
+ },
+ {
+  "_id": "L0000378",
+  "user_id": 107,
+  "session_id": "sess_586060",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-24T22:13:19.764446",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00061"
+  }
+ },
+ {
+  "_id": "L0000379",
+  "user_id": 68,
+  "session_id": "sess_414869",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-06-19T14:35:19.764449",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00029",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000380",
+  "user_id": 68,
+  "session_id": "sess_104493",
+  "action_type": "search",
+  "timestamp": "2026-07-05T09:25:19.764452",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "query": "yoga mat",
+   "results_count": 50
+  }
+ },
+ {
+  "_id": "L0000381",
+  "user_id": 1,
+  "session_id": "sess_550898",
+  "action_type": "search",
+  "timestamp": "2026-09-04T13:36:19.764455",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "query": "running shoes",
+   "results_count": 50
+  }
+ },
+ {
+  "_id": "L0000382",
+  "user_id": 140,
+  "session_id": "sess_536999",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-09-07T23:32:19.764458",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00069"
+  }
+ },
+ {
+  "_id": "L0000383",
+  "user_id": 14,
+  "session_id": "sess_620760",
+  "action_type": "checkout_start",
+  "timestamp": "2026-06-28T09:53:19.764461",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00099"
+  }
+ },
+ {
+  "_id": "L0000384",
+  "user_id": 30,
+  "session_id": "sess_996777",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-11T03:52:19.764464",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00037"
+  }
+ },
+ {
+  "_id": "L0000385",
+  "user_id": 140,
+  "session_id": "sess_787973",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-16T15:44:19.764466",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00023"
+  }
+ },
+ {
+  "_id": "L0000386",
+  "user_id": 63,
+  "session_id": "sess_603174",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-09-08T13:19:19.764469",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00043"
+  }
+ },
+ {
+  "_id": "L0000387",
+  "user_id": 75,
+  "session_id": "sess_804444",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-09T03:17:19.764472",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00022"
+  }
+ },
+ {
+  "_id": "L0000388",
+  "user_id": 42,
+  "session_id": "sess_478986",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-08-29T07:08:19.764475",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00094"
+  }
+ },
+ {
+  "_id": "L0000389",
+  "user_id": 18,
+  "session_id": "sess_179928",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-08-22T12:33:19.764478",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00082"
+  }
+ },
+ {
+  "_id": "L0000390",
+  "user_id": 70,
+  "session_id": "sess_287664",
+  "action_type": "page_view",
+  "timestamp": "2026-08-27T02:06:19.764481",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00009"
+  }
+ },
+ {
+  "_id": "L0000391",
+  "user_id": 137,
+  "session_id": "sess_587899",
+  "action_type": "page_view",
+  "timestamp": "2026-07-07T12:57:19.764484",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00099"
+  }
+ },
+ {
+  "_id": "L0000392",
+  "user_id": 22,
+  "session_id": "sess_473564",
+  "action_type": "checkout_start",
+  "timestamp": "2026-08-30T05:16:19.764486",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00036"
+  }
+ },
+ {
+  "_id": "L0000393",
+  "user_id": 65,
+  "session_id": "sess_860548",
+  "action_type": "remove_from_cart",
+  "timestamp": "2026-09-07T20:36:19.764489",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00070"
+  }
+ },
+ {
+  "_id": "L0000394",
+  "user_id": 42,
+  "session_id": "sess_252895",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-07-29T10:54:19.764492",
+  "metadata": {
+   "device": "mobile",
+   "os": "Android 14",
+   "product_id": "P00009"
+  }
+ },
+ {
+  "_id": "L0000395",
+  "user_id": 123,
+  "session_id": "sess_894101",
+  "action_type": "click_recommendation",
+  "timestamp": "2026-06-22T05:26:19.764495",
+  "metadata": {
+   "device": "tablet",
+   "os": "iPadOS 18",
+   "product_id": "P00025"
+  }
+ },
+ {
+  "_id": "L0000396",
+  "user_id": 27,
+  "session_id": "sess_946489",
+  "action_type": "add_to_cart",
+  "timestamp": "2026-07-07T04:14:19.764498",
+  "metadata": {
+   "device": "desktop",
+   "os": "macOS 15",
+   "product_id": "P00102",
+   "quantity": 2
+  }
+ },
+ {
+  "_id": "L0000397",
+  "user_id": 124,
+  "session_id": "sess_911035",
+  "action_type": "search",
+  "timestamp": "2026-06-26T16:43:19.764501",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "query": "laptop bag",
+   "results_count": 81
+  }
+ },
+ {
+  "_id": "L0000398",
+  "user_id": 127,
+  "session_id": "sess_684536",
+  "action_type": "page_view",
+  "timestamp": "2026-07-14T04:07:19.764504",
+  "metadata": {
+   "device": "mobile",
+   "os": "iOS 18",
+   "product_id": "P00107"
+  }
+ },
+ {
+  "_id": "L0000399",
+  "user_id": 11,
+  "session_id": "sess_138146",
+  "action_type": "checkout_start",
+  "timestamp": "2026-07-15T10:27:19.764507",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00026"
+  }
+ },
+ {
+  "_id": "L0000400",
+  "user_id": 96,
+  "session_id": "sess_780228",
+  "action_type": "wishlist_add",
+  "timestamp": "2026-07-29T02:40:19.764509",
+  "metadata": {
+   "device": "desktop",
+   "os": "Windows 11",
+   "product_id": "P00003"
+  }
+ }
+]

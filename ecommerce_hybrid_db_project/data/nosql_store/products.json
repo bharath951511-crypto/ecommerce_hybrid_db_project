@@ -1,0 +1,3216 @@
+[
+ {
+  "_id": "P00001",
+  "name": "Sony Smartphone",
+  "category": "Electronics",
+  "subcategory": "Smartphone",
+  "brand": "Sony",
+  "description": "Sony Smartphone - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 329.99,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "warranty_months": 24,
+   "battery_life_hrs": 8
+  },
+  "tags": [
+   "electronics",
+   "sony",
+   "smartphone"
+  ],
+  "images": [
+   "https://cdn.example.com/P00001/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2025-03-01T13:50:19.443810"
+ },
+ {
+  "_id": "P00002",
+  "name": "Penguin The Silent Patient",
+  "category": "Books",
+  "subcategory": "Patient",
+  "brand": "Penguin",
+  "description": "Penguin The Silent Patient - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 196.44,
+  "currency": "USD",
+  "attributes": {
+   "pages": 269,
+   "language": "English",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "penguin",
+   "the"
+  ],
+  "images": [
+   "https://cdn.example.com/P00002/1.jpg"
+  ],
+  "avg_rating": 4.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-02-18T17:46:19.443831"
+ },
+ {
+  "_id": "P00003",
+  "name": "Decathlon Cricket Bat",
+  "category": "Sports & Fitness",
+  "subcategory": "Bat",
+  "brand": "Decathlon",
+  "description": "Decathlon Cricket Bat - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 903.92,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 2,
+   "color": "Black"
+  },
+  "tags": [
+   "sports",
+   "decathlon",
+   "cricket"
+  ],
+  "images": [
+   "https://cdn.example.com/P00003/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-03-30T18:00:19.443840"
+ },
+ {
+  "_id": "P00004",
+  "name": "Bajaj Mixer Grinder",
+  "category": "Home & Kitchen",
+  "subcategory": "Grinder",
+  "brand": "Bajaj",
+  "description": "Bajaj Mixer Grinder - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 438.46,
+  "currency": "USD",
+  "attributes": {
+   "color": "Grey",
+   "capacity_l": 0.5,
+   "warranty_months": 6
+  },
+  "tags": [
+   "home",
+   "bajaj",
+   "mixer"
+  ],
+  "images": [
+   "https://cdn.example.com/P00004/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2025-08-17T13:05:19.443847"
+ },
+ {
+  "_id": "P00005",
+  "name": "Bajaj Non-Stick Pan",
+  "category": "Home & Kitchen",
+  "subcategory": "Pan",
+  "brand": "Bajaj",
+  "description": "Bajaj Non-Stick Pan - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1462.16,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "capacity_l": 2,
+   "warranty_months": 6
+  },
+  "tags": [
+   "home",
+   "bajaj",
+   "non-stick"
+  ],
+  "images": [
+   "https://cdn.example.com/P00005/1.jpg"
+  ],
+  "avg_rating": 3.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-02-22T06:34:19.443852"
+ },
+ {
+  "_id": "P00006",
+  "name": "Cosco Gym Gloves",
+  "category": "Sports & Fitness",
+  "subcategory": "Gloves",
+  "brand": "Cosco",
+  "description": "Cosco Gym Gloves - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 392.64,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 0.5,
+   "color": "Black"
+  },
+  "tags": [
+   "sports",
+   "cosco",
+   "gym"
+  ],
+  "images": [
+   "https://cdn.example.com/P00006/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-01-20T07:22:19.443858"
+ },
+ {
+  "_id": "P00007",
+  "name": "Zara Sneakers",
+  "category": "Fashion",
+  "subcategory": "Sneakers",
+  "brand": "Zara",
+  "description": "Zara Sneakers - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 563.16,
+  "currency": "USD",
+  "attributes": {
+   "size": "L",
+   "color": "Navy",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "zara",
+   "sneakers"
+  ],
+  "images": [
+   "https://cdn.example.com/P00007/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-09-12T09:45:19.443864"
+ },
+ {
+  "_id": "P00008",
+  "name": "IKEA Wall Clock",
+  "category": "Home & Kitchen",
+  "subcategory": "Clock",
+  "brand": "IKEA",
+  "description": "IKEA Wall Clock - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1273.6,
+  "currency": "USD",
+  "attributes": {
+   "color": "Beige",
+   "capacity_l": 1,
+   "warranty_months": 12
+  },
+  "tags": [
+   "home",
+   "ikea",
+   "wall"
+  ],
+  "images": [
+   "https://cdn.example.com/P00008/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-08-18T07:28:19.443869"
+ },
+ {
+  "_id": "P00009",
+  "name": "Yonex Resistance Bands",
+  "category": "Sports & Fitness",
+  "subcategory": "Bands",
+  "brand": "Yonex",
+  "description": "Yonex Resistance Bands - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1687.27,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 0.5,
+   "color": "Blue"
+  },
+  "tags": [
+   "sports",
+   "yonex",
+   "resistance"
+  ],
+  "images": [
+   "https://cdn.example.com/P00009/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2026-08-09T06:02:19.443874"
+ },
+ {
+  "_id": "P00010",
+  "name": "IKEA Study Table",
+  "category": "Home & Kitchen",
+  "subcategory": "Table",
+  "brand": "IKEA",
+  "description": "IKEA Study Table - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1827.13,
+  "currency": "USD",
+  "attributes": {
+   "color": "Grey",
+   "capacity_l": 1,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "ikea",
+   "study"
+  ],
+  "images": [
+   "https://cdn.example.com/P00010/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-04-17T03:31:19.443879"
+ },
+ {
+  "_id": "P00011",
+  "name": "HarperCollins Ikigai",
+  "category": "Books",
+  "subcategory": "Ikigai",
+  "brand": "HarperCollins",
+  "description": "HarperCollins Ikigai - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 287.85,
+  "currency": "USD",
+  "attributes": {
+   "pages": 531,
+   "language": "Hindi",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "harpercollins",
+   "ikigai"
+  ],
+  "images": [
+   "https://cdn.example.com/P00011/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-01-20T02:30:19.443884"
+ },
+ {
+  "_id": "P00012",
+  "name": "Decathlon Resistance Bands",
+  "category": "Sports & Fitness",
+  "subcategory": "Bands",
+  "brand": "Decathlon",
+  "description": "Decathlon Resistance Bands - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 446.44,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 1,
+   "color": "Green"
+  },
+  "tags": [
+   "sports",
+   "decathlon",
+   "resistance"
+  ],
+  "images": [
+   "https://cdn.example.com/P00012/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2026-06-09T14:32:19.443889"
+ },
+ {
+  "_id": "P00013",
+  "name": "Apple Smartwatch",
+  "category": "Electronics",
+  "subcategory": "Smartwatch",
+  "brand": "Apple",
+  "description": "Apple Smartwatch - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1586.23,
+  "currency": "USD",
+  "attributes": {
+   "color": "Silver",
+   "warranty_months": 24,
+   "battery_life_hrs": 8
+  },
+  "tags": [
+   "electronics",
+   "apple",
+   "smartwatch"
+  ],
+  "images": [
+   "https://cdn.example.com/P00013/1.jpg"
+  ],
+  "avg_rating": 3.67,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-08-12T03:49:19.443894"
+ },
+ {
+  "_id": "P00014",
+  "name": "Scholastic Ikigai",
+  "category": "Books",
+  "subcategory": "Ikigai",
+  "brand": "Scholastic",
+  "description": "Scholastic Ikigai - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1942.44,
+  "currency": "USD",
+  "attributes": {
+   "pages": 590,
+   "language": "English",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "scholastic",
+   "ikigai"
+  ],
+  "images": [
+   "https://cdn.example.com/P00014/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-05-15T18:31:19.443900"
+ },
+ {
+  "_id": "P00015",
+  "name": "Cosco Resistance Bands",
+  "category": "Sports & Fitness",
+  "subcategory": "Bands",
+  "brand": "Cosco",
+  "description": "Cosco Resistance Bands - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 231.98,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 5,
+   "color": "Blue"
+  },
+  "tags": [
+   "sports",
+   "cosco",
+   "resistance"
+  ],
+  "images": [
+   "https://cdn.example.com/P00015/1.jpg"
+  ],
+  "avg_rating": 3.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-06-03T15:41:19.443905"
+ },
+ {
+  "_id": "P00016",
+  "name": "Milton Dinner Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Set",
+  "brand": "Milton",
+  "description": "Milton Dinner Set - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1826.12,
+  "currency": "USD",
+  "attributes": {
+   "color": "Grey",
+   "capacity_l": null,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "milton",
+   "dinner"
+  ],
+  "images": [
+   "https://cdn.example.com/P00016/1.jpg"
+  ],
+  "avg_rating": 4.8,
+  "review_count": 5,
+  "is_active": true,
+  "created_at": "2026-02-19T12:04:19.443910"
+ },
+ {
+  "_id": "P00017",
+  "name": "Fabindia Kurta",
+  "category": "Fashion",
+  "subcategory": "Kurta",
+  "brand": "Fabindia",
+  "description": "Fabindia Kurta - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1837.79,
+  "currency": "USD",
+  "attributes": {
+   "size": "XXL",
+   "color": "Maroon",
+   "material": "Wool"
+  },
+  "tags": [
+   "fashion",
+   "fabindia",
+   "kurta"
+  ],
+  "images": [
+   "https://cdn.example.com/P00017/1.jpg"
+  ],
+  "avg_rating": 3.0,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-08-22T12:28:19.443915"
+ },
+ {
+  "_id": "P00018",
+  "name": "Bajaj Study Table",
+  "category": "Home & Kitchen",
+  "subcategory": "Table",
+  "brand": "Bajaj",
+  "description": "Bajaj Study Table - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 125.26,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "capacity_l": 0.5,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "bajaj",
+   "study"
+  ],
+  "images": [
+   "https://cdn.example.com/P00018/1.jpg"
+  ],
+  "avg_rating": 3.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-05-01T13:39:19.443921"
+ },
+ {
+  "_id": "P00019",
+  "name": "Yonex Dumbbell Set",
+  "category": "Sports & Fitness",
+  "subcategory": "Set",
+  "brand": "Yonex",
+  "description": "Yonex Dumbbell Set - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1322.89,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 10,
+   "color": "Blue"
+  },
+  "tags": [
+   "sports",
+   "yonex",
+   "dumbbell"
+  ],
+  "images": [
+   "https://cdn.example.com/P00019/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-12-12T23:32:19.443926"
+ },
+ {
+  "_id": "P00020",
+  "name": "Decathlon Cricket Bat",
+  "category": "Sports & Fitness",
+  "subcategory": "Bat",
+  "brand": "Decathlon",
+  "description": "Decathlon Cricket Bat - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1858.53,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": null,
+   "color": "Blue"
+  },
+  "tags": [
+   "sports",
+   "decathlon",
+   "cricket"
+  ],
+  "images": [
+   "https://cdn.example.com/P00020/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-10-26T03:45:19.443930"
+ },
+ {
+  "_id": "P00021",
+  "name": "Cello Dinner Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Set",
+  "brand": "Cello",
+  "description": "Cello Dinner Set - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 908.45,
+  "currency": "USD",
+  "attributes": {
+   "color": "Beige",
+   "capacity_l": 1,
+   "warranty_months": 6
+  },
+  "tags": [
+   "home",
+   "cello",
+   "dinner"
+  ],
+  "images": [
+   "https://cdn.example.com/P00021/1.jpg"
+  ],
+  "avg_rating": 3.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-09-29T15:50:19.443935"
+ },
+ {
+  "_id": "P00022",
+  "name": "Yonex Gym Gloves",
+  "category": "Sports & Fitness",
+  "subcategory": "Gloves",
+  "brand": "Yonex",
+  "description": "Yonex Gym Gloves - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 448.22,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 0.5,
+   "color": "Black"
+  },
+  "tags": [
+   "sports",
+   "yonex",
+   "gym"
+  ],
+  "images": [
+   "https://cdn.example.com/P00022/1.jpg"
+  ],
+  "avg_rating": 4.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-01-19T13:30:19.443939"
+ },
+ {
+  "_id": "P00023",
+  "name": "Dell Bluetooth Speaker",
+  "category": "Electronics",
+  "subcategory": "Speaker",
+  "brand": "Dell",
+  "description": "Dell Bluetooth Speaker - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1033.16,
+  "currency": "USD",
+  "attributes": {
+   "color": "Blue",
+   "warranty_months": 24,
+   "battery_life_hrs": 30
+  },
+  "tags": [
+   "electronics",
+   "dell",
+   "bluetooth"
+  ],
+  "images": [
+   "https://cdn.example.com/P00023/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-02-02T23:19:19.443944"
+ },
+ {
+  "_id": "P00024",
+  "name": "Wilson Cycling Helmet",
+  "category": "Sports & Fitness",
+  "subcategory": "Helmet",
+  "brand": "Wilson",
+  "description": "Wilson Cycling Helmet - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 493.55,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 5,
+   "color": "Green"
+  },
+  "tags": [
+   "sports",
+   "wilson",
+   "cycling"
+  ],
+  "images": [
+   "https://cdn.example.com/P00024/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-02-28T13:21:19.443948"
+ },
+ {
+  "_id": "P00025",
+  "name": "Bloomsbury Clean Code",
+  "category": "Books",
+  "subcategory": "Code",
+  "brand": "Bloomsbury",
+  "description": "Bloomsbury Clean Code - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 828.08,
+  "currency": "USD",
+  "attributes": {
+   "pages": 592,
+   "language": "English",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "bloomsbury",
+   "clean"
+  ],
+  "images": [
+   "https://cdn.example.com/P00025/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-06-02T15:02:19.443953"
+ },
+ {
+  "_id": "P00026",
+  "name": "IKEA Study Table",
+  "category": "Home & Kitchen",
+  "subcategory": "Table",
+  "brand": "IKEA",
+  "description": "IKEA Study Table - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 391.25,
+  "currency": "USD",
+  "attributes": {
+   "color": "Red",
+   "capacity_l": 1,
+   "warranty_months": 12
+  },
+  "tags": [
+   "home",
+   "ikea",
+   "study"
+  ],
+  "images": [
+   "https://cdn.example.com/P00026/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-03-07T07:58:19.443958"
+ },
+ {
+  "_id": "P00027",
+  "name": "Zara Chinos",
+  "category": "Fashion",
+  "subcategory": "Chinos",
+  "brand": "Zara",
+  "description": "Zara Chinos - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1617.95,
+  "currency": "USD",
+  "attributes": {
+   "size": "XXL",
+   "color": "Black",
+   "material": "Cotton"
+  },
+  "tags": [
+   "fashion",
+   "zara",
+   "chinos"
+  ],
+  "images": [
+   "https://cdn.example.com/P00027/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-03-06T16:22:19.443963"
+ },
+ {
+  "_id": "P00028",
+  "name": "H&M Sneakers",
+  "category": "Fashion",
+  "subcategory": "Sneakers",
+  "brand": "H&M",
+  "description": "H&M Sneakers - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 976.42,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "Olive",
+   "material": "Cotton"
+  },
+  "tags": [
+   "fashion",
+   "h&m",
+   "sneakers"
+  ],
+  "images": [
+   "https://cdn.example.com/P00028/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-03-26T04:27:19.443968"
+ },
+ {
+  "_id": "P00029",
+  "name": "Bloomsbury 1984",
+  "category": "Books",
+  "subcategory": "1984",
+  "brand": "Bloomsbury",
+  "description": "Bloomsbury 1984 - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 577.64,
+  "currency": "USD",
+  "attributes": {
+   "pages": 506,
+   "language": "Hindi",
+   "format": "Paperback"
+  },
+  "tags": [
+   "books",
+   "bloomsbury",
+   "1984"
+  ],
+  "images": [
+   "https://cdn.example.com/P00029/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-02-28T07:14:19.443972"
+ },
+ {
+  "_id": "P00030",
+  "name": "Xiaomi Mechanical Keyboard",
+  "category": "Electronics",
+  "subcategory": "Keyboard",
+  "brand": "Xiaomi",
+  "description": "Xiaomi Mechanical Keyboard - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 131.3,
+  "currency": "USD",
+  "attributes": {
+   "color": "Blue",
+   "warranty_months": 6,
+   "battery_life_hrs": 8
+  },
+  "tags": [
+   "electronics",
+   "xiaomi",
+   "mechanical"
+  ],
+  "images": [
+   "https://cdn.example.com/P00030/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-01-20T00:55:19.443977"
+ },
+ {
+  "_id": "P00031",
+  "name": "Yonex Yoga Mat",
+  "category": "Sports & Fitness",
+  "subcategory": "Mat",
+  "brand": "Yonex",
+  "description": "Yonex Yoga Mat - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1921.94,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 0.5,
+   "color": "Blue"
+  },
+  "tags": [
+   "sports",
+   "yonex",
+   "yoga"
+  ],
+  "images": [
+   "https://cdn.example.com/P00031/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2026-07-01T21:23:19.443982"
+ },
+ {
+  "_id": "P00032",
+  "name": "Allen Solly Denim Jeans",
+  "category": "Fashion",
+  "subcategory": "Jeans",
+  "brand": "Allen Solly",
+  "description": "Allen Solly Denim Jeans - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1883.77,
+  "currency": "USD",
+  "attributes": {
+   "size": "XXL",
+   "color": "Navy",
+   "material": "Cotton"
+  },
+  "tags": [
+   "fashion",
+   "allen solly",
+   "denim"
+  ],
+  "images": [
+   "https://cdn.example.com/P00032/1.jpg"
+  ],
+  "avg_rating": 4.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-06-19T02:45:19.443986"
+ },
+ {
+  "_id": "P00033",
+  "name": "Wilson Skipping Rope",
+  "category": "Sports & Fitness",
+  "subcategory": "Rope",
+  "brand": "Wilson",
+  "description": "Wilson Skipping Rope - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 639.57,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 2,
+   "color": "Blue"
+  },
+  "tags": [
+   "sports",
+   "wilson",
+   "skipping"
+  ],
+  "images": [
+   "https://cdn.example.com/P00033/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-10-24T09:11:19.443991"
+ },
+ {
+  "_id": "P00034",
+  "name": "HarperCollins Ikigai",
+  "category": "Books",
+  "subcategory": "Ikigai",
+  "brand": "HarperCollins",
+  "description": "HarperCollins Ikigai - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 919.87,
+  "currency": "USD",
+  "attributes": {
+   "pages": 534,
+   "language": "English",
+   "format": "Paperback"
+  },
+  "tags": [
+   "books",
+   "harpercollins",
+   "ikigai"
+  ],
+  "images": [
+   "https://cdn.example.com/P00034/1.jpg"
+  ],
+  "avg_rating": 2.67,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-05-28T20:51:19.443997"
+ },
+ {
+  "_id": "P00035",
+  "name": "Samsung Mechanical Keyboard",
+  "category": "Electronics",
+  "subcategory": "Keyboard",
+  "brand": "Samsung",
+  "description": "Samsung Mechanical Keyboard - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 434.17,
+  "currency": "USD",
+  "attributes": {
+   "color": "Blue",
+   "warranty_months": 6,
+   "battery_life_hrs": 20
+  },
+  "tags": [
+   "electronics",
+   "samsung",
+   "mechanical"
+  ],
+  "images": [
+   "https://cdn.example.com/P00035/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-07-02T09:04:19.444003"
+ },
+ {
+  "_id": "P00036",
+  "name": "Milton Vacuum Cleaner",
+  "category": "Home & Kitchen",
+  "subcategory": "Cleaner",
+  "brand": "Milton",
+  "description": "Milton Vacuum Cleaner - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1669.14,
+  "currency": "USD",
+  "attributes": {
+   "color": "Grey",
+   "capacity_l": 5,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "milton",
+   "vacuum"
+  ],
+  "images": [
+   "https://cdn.example.com/P00036/1.jpg"
+  ],
+  "avg_rating": 4.25,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2025-03-18T15:45:19.444008"
+ },
+ {
+  "_id": "P00037",
+  "name": "Cosco Badminton Racket",
+  "category": "Sports & Fitness",
+  "subcategory": "Racket",
+  "brand": "Cosco",
+  "description": "Cosco Badminton Racket - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1878.46,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 1,
+   "color": "Red"
+  },
+  "tags": [
+   "sports",
+   "cosco",
+   "badminton"
+  ],
+  "images": [
+   "https://cdn.example.com/P00037/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-05-15T12:40:19.444013"
+ },
+ {
+  "_id": "P00038",
+  "name": "Yonex Football",
+  "category": "Sports & Fitness",
+  "subcategory": "Football",
+  "brand": "Yonex",
+  "description": "Yonex Football - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 570.68,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 1,
+   "color": "Red"
+  },
+  "tags": [
+   "sports",
+   "yonex",
+   "football"
+  ],
+  "images": [
+   "https://cdn.example.com/P00038/1.jpg"
+  ],
+  "avg_rating": 3.6,
+  "review_count": 5,
+  "is_active": true,
+  "created_at": "2026-02-13T18:47:19.444017"
+ },
+ {
+  "_id": "P00039",
+  "name": "Cello Bed Sheet Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Set",
+  "brand": "Cello",
+  "description": "Cello Bed Sheet Set - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1811.61,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "capacity_l": 0.5,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "cello",
+   "bed"
+  ],
+  "images": [
+   "https://cdn.example.com/P00039/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-07-04T08:25:19.444022"
+ },
+ {
+  "_id": "P00040",
+  "name": "Dell Smartwatch",
+  "category": "Electronics",
+  "subcategory": "Smartwatch",
+  "brand": "Dell",
+  "description": "Dell Smartwatch - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1277.85,
+  "currency": "USD",
+  "attributes": {
+   "color": "Blue",
+   "warranty_months": 6,
+   "battery_life_hrs": 30
+  },
+  "tags": [
+   "electronics",
+   "dell",
+   "smartwatch"
+  ],
+  "images": [
+   "https://cdn.example.com/P00040/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-02-22T18:00:19.444026"
+ },
+ {
+  "_id": "P00041",
+  "name": "Nivia Badminton Racket",
+  "category": "Sports & Fitness",
+  "subcategory": "Racket",
+  "brand": "Nivia",
+  "description": "Nivia Badminton Racket - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 159.73,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": null,
+   "color": "Blue"
+  },
+  "tags": [
+   "sports",
+   "nivia",
+   "badminton"
+  ],
+  "images": [
+   "https://cdn.example.com/P00041/1.jpg"
+  ],
+  "avg_rating": 2.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-03-01T14:34:19.444030"
+ },
+ {
+  "_id": "P00042",
+  "name": "Milton Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Fryer",
+  "brand": "Milton",
+  "description": "Milton Air Fryer - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 263.61,
+  "currency": "USD",
+  "attributes": {
+   "color": "Grey",
+   "capacity_l": 1.5,
+   "warranty_months": 6
+  },
+  "tags": [
+   "home",
+   "milton",
+   "air"
+  ],
+  "images": [
+   "https://cdn.example.com/P00042/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2025-09-09T09:44:19.444035"
+ },
+ {
+  "_id": "P00043",
+  "name": "Zara Leather Jacket",
+  "category": "Fashion",
+  "subcategory": "Jacket",
+  "brand": "Zara",
+  "description": "Zara Leather Jacket - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1562.42,
+  "currency": "USD",
+  "attributes": {
+   "size": "XL",
+   "color": "White",
+   "material": "Polyester"
+  },
+  "tags": [
+   "fashion",
+   "zara",
+   "leather"
+  ],
+  "images": [
+   "https://cdn.example.com/P00043/1.jpg"
+  ],
+  "avg_rating": 3.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-01-11T10:36:19.444040"
+ },
+ {
+  "_id": "P00044",
+  "name": "Allen Solly Cotton T-Shirt",
+  "category": "Fashion",
+  "subcategory": "T-Shirt",
+  "brand": "Allen Solly",
+  "description": "Allen Solly Cotton T-Shirt - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 366.92,
+  "currency": "USD",
+  "attributes": {
+   "size": "L",
+   "color": "Olive",
+   "material": "Polyester"
+  },
+  "tags": [
+   "fashion",
+   "allen solly",
+   "cotton"
+  ],
+  "images": [
+   "https://cdn.example.com/P00044/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-12-11T10:37:19.444045"
+ },
+ {
+  "_id": "P00045",
+  "name": "HP Wireless Headphones",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "brand": "HP",
+  "description": "HP Wireless Headphones - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1718.59,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "warranty_months": 6,
+   "battery_life_hrs": 30
+  },
+  "tags": [
+   "electronics",
+   "hp",
+   "wireless"
+  ],
+  "images": [
+   "https://cdn.example.com/P00045/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-09-17T06:35:19.444050"
+ },
+ {
+  "_id": "P00046",
+  "name": "Nike Cotton T-Shirt",
+  "category": "Fashion",
+  "subcategory": "T-Shirt",
+  "brand": "Nike",
+  "description": "Nike Cotton T-Shirt - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1323.46,
+  "currency": "USD",
+  "attributes": {
+   "size": "XL",
+   "color": "Maroon",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "nike",
+   "cotton"
+  ],
+  "images": [
+   "https://cdn.example.com/P00046/1.jpg"
+  ],
+  "avg_rating": 2.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-07-01T08:05:19.444054"
+ },
+ {
+  "_id": "P00047",
+  "name": "Decathlon Skipping Rope",
+  "category": "Sports & Fitness",
+  "subcategory": "Rope",
+  "brand": "Decathlon",
+  "description": "Decathlon Skipping Rope - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 668.98,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 0.5,
+   "color": "Black"
+  },
+  "tags": [
+   "sports",
+   "decathlon",
+   "skipping"
+  ],
+  "images": [
+   "https://cdn.example.com/P00047/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-12-17T10:50:19.444059"
+ },
+ {
+  "_id": "P00048",
+  "name": "Prestige Electric Kettle",
+  "category": "Home & Kitchen",
+  "subcategory": "Kettle",
+  "brand": "Prestige",
+  "description": "Prestige Electric Kettle - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1197.17,
+  "currency": "USD",
+  "attributes": {
+   "color": "Grey",
+   "capacity_l": null,
+   "warranty_months": 12
+  },
+  "tags": [
+   "home",
+   "prestige",
+   "electric"
+  ],
+  "images": [
+   "https://cdn.example.com/P00048/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-06-20T20:55:19.444064"
+ },
+ {
+  "_id": "P00049",
+  "name": "HP 4K Monitor",
+  "category": "Electronics",
+  "subcategory": "Monitor",
+  "brand": "HP",
+  "description": "HP 4K Monitor - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 388.25,
+  "currency": "USD",
+  "attributes": {
+   "color": "Black",
+   "warranty_months": 24,
+   "battery_life_hrs": 30
+  },
+  "tags": [
+   "electronics",
+   "hp",
+   "4k"
+  ],
+  "images": [
+   "https://cdn.example.com/P00049/1.jpg"
+  ],
+  "avg_rating": 3.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-09-08T23:28:19.444068"
+ },
+ {
+  "_id": "P00050",
+  "name": "Nike Cricket Bat",
+  "category": "Sports & Fitness",
+  "subcategory": "Bat",
+  "brand": "Nike",
+  "description": "Nike Cricket Bat - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 734.79,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 0.5,
+   "color": "Red"
+  },
+  "tags": [
+   "sports",
+   "nike",
+   "cricket"
+  ],
+  "images": [
+   "https://cdn.example.com/P00050/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2025-10-23T18:33:19.444073"
+ },
+ {
+  "_id": "P00051",
+  "name": "JBL Mechanical Keyboard",
+  "category": "Electronics",
+  "subcategory": "Keyboard",
+  "brand": "JBL",
+  "description": "JBL Mechanical Keyboard - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 625.47,
+  "currency": "USD",
+  "attributes": {
+   "color": "Silver",
+   "warranty_months": 12,
+   "battery_life_hrs": 30
+  },
+  "tags": [
+   "electronics",
+   "jbl",
+   "mechanical"
+  ],
+  "images": [
+   "https://cdn.example.com/P00051/1.jpg"
+  ],
+  "avg_rating": 3.25,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2025-11-11T23:19:19.444077"
+ },
+ {
+  "_id": "P00052",
+  "name": "Allen Solly Sneakers",
+  "category": "Fashion",
+  "subcategory": "Sneakers",
+  "brand": "Allen Solly",
+  "description": "Allen Solly Sneakers - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1357.85,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "White",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "allen solly",
+   "sneakers"
+  ],
+  "images": [
+   "https://cdn.example.com/P00052/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-07-21T22:34:19.444082"
+ },
+ {
+  "_id": "P00053",
+  "name": "JBL Smartphone",
+  "category": "Electronics",
+  "subcategory": "Smartphone",
+  "brand": "JBL",
+  "description": "JBL Smartphone - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 428.25,
+  "currency": "USD",
+  "attributes": {
+   "color": "Space Grey",
+   "warranty_months": 24,
+   "battery_life_hrs": 20
+  },
+  "tags": [
+   "electronics",
+   "jbl",
+   "smartphone"
+  ],
+  "images": [
+   "https://cdn.example.com/P00053/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-05-22T01:59:19.444086"
+ },
+ {
+  "_id": "P00054",
+  "name": "Fabindia Chinos",
+  "category": "Fashion",
+  "subcategory": "Chinos",
+  "brand": "Fabindia",
+  "description": "Fabindia Chinos - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1589.52,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "Black",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "fabindia",
+   "chinos"
+  ],
+  "images": [
+   "https://cdn.example.com/P00054/1.jpg"
+  ],
+  "avg_rating": 3.4,
+  "review_count": 5,
+  "is_active": true,
+  "created_at": "2025-03-31T18:47:19.444091"
+ },
+ {
+  "_id": "P00055",
+  "name": "Cosco Badminton Racket",
+  "category": "Sports & Fitness",
+  "subcategory": "Racket",
+  "brand": "Cosco",
+  "description": "Cosco Badminton Racket - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1638.65,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 1,
+   "color": "Red"
+  },
+  "tags": [
+   "sports",
+   "cosco",
+   "badminton"
+  ],
+  "images": [
+   "https://cdn.example.com/P00055/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2026-01-23T10:18:19.444095"
+ },
+ {
+  "_id": "P00056",
+  "name": "Sony Laptop",
+  "category": "Electronics",
+  "subcategory": "Laptop",
+  "brand": "Sony",
+  "description": "Sony Laptop - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1968.02,
+  "currency": "USD",
+  "attributes": {
+   "color": "Space Grey",
+   "warranty_months": 6,
+   "battery_life_hrs": 30
+  },
+  "tags": [
+   "electronics",
+   "sony",
+   "laptop"
+  ],
+  "images": [
+   "https://cdn.example.com/P00056/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-07-12T19:51:19.444099"
+ },
+ {
+  "_id": "P00057",
+  "name": "Allen Solly Chinos",
+  "category": "Fashion",
+  "subcategory": "Chinos",
+  "brand": "Allen Solly",
+  "description": "Allen Solly Chinos - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 805.3,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "Black",
+   "material": "Cotton"
+  },
+  "tags": [
+   "fashion",
+   "allen solly",
+   "chinos"
+  ],
+  "images": [
+   "https://cdn.example.com/P00057/1.jpg"
+  ],
+  "avg_rating": 3.25,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2025-07-02T09:16:19.444104"
+ },
+ {
+  "_id": "P00058",
+  "name": "Decathlon Yoga Mat",
+  "category": "Sports & Fitness",
+  "subcategory": "Mat",
+  "brand": "Decathlon",
+  "description": "Decathlon Yoga Mat - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1119.23,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 0.5,
+   "color": "Green"
+  },
+  "tags": [
+   "sports",
+   "decathlon",
+   "yoga"
+  ],
+  "images": [
+   "https://cdn.example.com/P00058/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-04-27T01:45:19.444110"
+ },
+ {
+  "_id": "P00059",
+  "name": "Wilson Gym Gloves",
+  "category": "Sports & Fitness",
+  "subcategory": "Gloves",
+  "brand": "Wilson",
+  "description": "Wilson Gym Gloves - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 641.41,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 5,
+   "color": "Green"
+  },
+  "tags": [
+   "sports",
+   "wilson",
+   "gym"
+  ],
+  "images": [
+   "https://cdn.example.com/P00059/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 5,
+  "is_active": true,
+  "created_at": "2025-02-26T01:30:19.444115"
+ },
+ {
+  "_id": "P00060",
+  "name": "Van Heusen Chinos",
+  "category": "Fashion",
+  "subcategory": "Chinos",
+  "brand": "Van Heusen",
+  "description": "Van Heusen Chinos - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 525.78,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "Maroon",
+   "material": "Wool"
+  },
+  "tags": [
+   "fashion",
+   "van heusen",
+   "chinos"
+  ],
+  "images": [
+   "https://cdn.example.com/P00060/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2026-01-09T07:59:19.444120"
+ },
+ {
+  "_id": "P00061",
+  "name": "JBL Laptop",
+  "category": "Electronics",
+  "subcategory": "Laptop",
+  "brand": "JBL",
+  "description": "JBL Laptop - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 550.7,
+  "currency": "USD",
+  "attributes": {
+   "color": "Blue",
+   "warranty_months": 24,
+   "battery_life_hrs": 8
+  },
+  "tags": [
+   "electronics",
+   "jbl",
+   "laptop"
+  ],
+  "images": [
+   "https://cdn.example.com/P00061/1.jpg"
+  ],
+  "avg_rating": 2.6,
+  "review_count": 5,
+  "is_active": true,
+  "created_at": "2026-04-22T12:13:19.444124"
+ },
+ {
+  "_id": "P00062",
+  "name": "HarperCollins Rich Dad Poor Dad",
+  "category": "Books",
+  "subcategory": "Dad",
+  "brand": "HarperCollins",
+  "description": "HarperCollins Rich Dad Poor Dad - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 137.81,
+  "currency": "USD",
+  "attributes": {
+   "pages": 358,
+   "language": "Hindi",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "harpercollins",
+   "rich"
+  ],
+  "images": [
+   "https://cdn.example.com/P00062/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2025-05-21T03:24:19.444129"
+ },
+ {
+  "_id": "P00063",
+  "name": "Allen Solly Sneakers",
+  "category": "Fashion",
+  "subcategory": "Sneakers",
+  "brand": "Allen Solly",
+  "description": "Allen Solly Sneakers - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1810.62,
+  "currency": "USD",
+  "attributes": {
+   "size": "XXL",
+   "color": "Black",
+   "material": "Wool"
+  },
+  "tags": [
+   "fashion",
+   "allen solly",
+   "sneakers"
+  ],
+  "images": [
+   "https://cdn.example.com/P00063/1.jpg"
+  ],
+  "avg_rating": 3.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-05-10T16:05:19.444134"
+ },
+ {
+  "_id": "P00064",
+  "name": "Borosil Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Fryer",
+  "brand": "Borosil",
+  "description": "Borosil Air Fryer - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1081.05,
+  "currency": "USD",
+  "attributes": {
+   "color": "Beige",
+   "capacity_l": 2,
+   "warranty_months": 6
+  },
+  "tags": [
+   "home",
+   "borosil",
+   "air"
+  ],
+  "images": [
+   "https://cdn.example.com/P00064/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-12-05T02:56:19.444139"
+ },
+ {
+  "_id": "P00065",
+  "name": "HP Tablet",
+  "category": "Electronics",
+  "subcategory": "Tablet",
+  "brand": "HP",
+  "description": "HP Tablet - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1341.05,
+  "currency": "USD",
+  "attributes": {
+   "color": "Silver",
+   "warranty_months": 24,
+   "battery_life_hrs": 10
+  },
+  "tags": [
+   "electronics",
+   "hp",
+   "tablet"
+  ],
+  "images": [
+   "https://cdn.example.com/P00065/1.jpg"
+  ],
+  "avg_rating": 3.67,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-05-20T11:48:19.444143"
+ },
+ {
+  "_id": "P00066",
+  "name": "Nivia Treadmill",
+  "category": "Sports & Fitness",
+  "subcategory": "Treadmill",
+  "brand": "Nivia",
+  "description": "Nivia Treadmill - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1187.86,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": null,
+   "color": "Black"
+  },
+  "tags": [
+   "sports",
+   "nivia",
+   "treadmill"
+  ],
+  "images": [
+   "https://cdn.example.com/P00066/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-06-16T20:00:19.444147"
+ },
+ {
+  "_id": "P00067",
+  "name": "Van Heusen Running Shoes",
+  "category": "Fashion",
+  "subcategory": "Shoes",
+  "brand": "Van Heusen",
+  "description": "Van Heusen Running Shoes - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 110.06,
+  "currency": "USD",
+  "attributes": {
+   "size": "XL",
+   "color": "Maroon",
+   "material": "Polyester"
+  },
+  "tags": [
+   "fashion",
+   "van heusen",
+   "running"
+  ],
+  "images": [
+   "https://cdn.example.com/P00067/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2025-06-02T06:06:19.444152"
+ },
+ {
+  "_id": "P00068",
+  "name": "Bloomsbury Clean Code",
+  "category": "Books",
+  "subcategory": "Code",
+  "brand": "Bloomsbury",
+  "description": "Bloomsbury Clean Code - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 512.01,
+  "currency": "USD",
+  "attributes": {
+   "pages": 191,
+   "language": "Hindi",
+   "format": "Paperback"
+  },
+  "tags": [
+   "books",
+   "bloomsbury",
+   "clean"
+  ],
+  "images": [
+   "https://cdn.example.com/P00068/1.jpg"
+  ],
+  "avg_rating": 3.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-03-07T15:05:19.444156"
+ },
+ {
+  "_id": "P00069",
+  "name": "Zara Cotton T-Shirt",
+  "category": "Fashion",
+  "subcategory": "T-Shirt",
+  "brand": "Zara",
+  "description": "Zara Cotton T-Shirt - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1510.91,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "Navy",
+   "material": "Cotton"
+  },
+  "tags": [
+   "fashion",
+   "zara",
+   "cotton"
+  ],
+  "images": [
+   "https://cdn.example.com/P00069/1.jpg"
+  ],
+  "avg_rating": 4.33,
+  "review_count": 6,
+  "is_active": true,
+  "created_at": "2026-04-07T09:19:19.444161"
+ },
+ {
+  "_id": "P00070",
+  "name": "Penguin Think Again",
+  "category": "Books",
+  "subcategory": "Again",
+  "brand": "Penguin",
+  "description": "Penguin Think Again - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1896.03,
+  "currency": "USD",
+  "attributes": {
+   "pages": 388,
+   "language": "Hindi",
+   "format": "Hardcover"
+  },
+  "tags": [
+   "books",
+   "penguin",
+   "think"
+  ],
+  "images": [
+   "https://cdn.example.com/P00070/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-03-22T20:49:19.444166"
+ },
+ {
+  "_id": "P00071",
+  "name": "Apple Smartphone",
+  "category": "Electronics",
+  "subcategory": "Smartphone",
+  "brand": "Apple",
+  "description": "Apple Smartphone - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 225.11,
+  "currency": "USD",
+  "attributes": {
+   "color": "Black",
+   "warranty_months": 12,
+   "battery_life_hrs": null
+  },
+  "tags": [
+   "electronics",
+   "apple",
+   "smartphone"
+  ],
+  "images": [
+   "https://cdn.example.com/P00071/1.jpg"
+  ],
+  "avg_rating": 3.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-08-22T03:42:19.444170"
+ },
+ {
+  "_id": "P00072",
+  "name": "Zara Sports Jacket",
+  "category": "Fashion",
+  "subcategory": "Jacket",
+  "brand": "Zara",
+  "description": "Zara Sports Jacket - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1384.31,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "Black",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "zara",
+   "sports"
+  ],
+  "images": [
+   "https://cdn.example.com/P00072/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-05-09T21:37:19.444175"
+ },
+ {
+  "_id": "P00073",
+  "name": "Dell Mechanical Keyboard",
+  "category": "Electronics",
+  "subcategory": "Keyboard",
+  "brand": "Dell",
+  "description": "Dell Mechanical Keyboard - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 862.46,
+  "currency": "USD",
+  "attributes": {
+   "color": "Blue",
+   "warranty_months": 6,
+   "battery_life_hrs": null
+  },
+  "tags": [
+   "electronics",
+   "dell",
+   "mechanical"
+  ],
+  "images": [
+   "https://cdn.example.com/P00073/1.jpg"
+  ],
+  "avg_rating": 4.67,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-09-26T15:33:19.444180"
+ },
+ {
+  "_id": "P00074",
+  "name": "Rupa Atomic Habits",
+  "category": "Books",
+  "subcategory": "Habits",
+  "brand": "Rupa",
+  "description": "Rupa Atomic Habits - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 872.7,
+  "currency": "USD",
+  "attributes": {
+   "pages": 335,
+   "language": "Hindi",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "rupa",
+   "atomic"
+  ],
+  "images": [
+   "https://cdn.example.com/P00074/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-04-07T03:16:19.444184"
+ },
+ {
+  "_id": "P00075",
+  "name": "Nike Football",
+  "category": "Sports & Fitness",
+  "subcategory": "Football",
+  "brand": "Nike",
+  "description": "Nike Football - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1235.66,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 10,
+   "color": "Green"
+  },
+  "tags": [
+   "sports",
+   "nike",
+   "football"
+  ],
+  "images": [
+   "https://cdn.example.com/P00075/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-05-22T02:35:19.444189"
+ },
+ {
+  "_id": "P00076",
+  "name": "Cosco Resistance Bands",
+  "category": "Sports & Fitness",
+  "subcategory": "Bands",
+  "brand": "Cosco",
+  "description": "Cosco Resistance Bands - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1704.9,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 0.5,
+   "color": "Red"
+  },
+  "tags": [
+   "sports",
+   "cosco",
+   "resistance"
+  ],
+  "images": [
+   "https://cdn.example.com/P00076/1.jpg"
+  ],
+  "avg_rating": 4.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-06-06T08:39:19.444193"
+ },
+ {
+  "_id": "P00077",
+  "name": "Scholastic Think Again",
+  "category": "Books",
+  "subcategory": "Again",
+  "brand": "Scholastic",
+  "description": "Scholastic Think Again - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1339.69,
+  "currency": "USD",
+  "attributes": {
+   "pages": 322,
+   "language": "English",
+   "format": "Hardcover"
+  },
+  "tags": [
+   "books",
+   "scholastic",
+   "think"
+  ],
+  "images": [
+   "https://cdn.example.com/P00077/1.jpg"
+  ],
+  "avg_rating": 4.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-10-13T10:56:19.444197"
+ },
+ {
+  "_id": "P00078",
+  "name": "Puma Hoodie",
+  "category": "Fashion",
+  "subcategory": "Hoodie",
+  "brand": "Puma",
+  "description": "Puma Hoodie - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 687.26,
+  "currency": "USD",
+  "attributes": {
+   "size": "XXL",
+   "color": "Maroon",
+   "material": "Cotton"
+  },
+  "tags": [
+   "fashion",
+   "puma",
+   "hoodie"
+  ],
+  "images": [
+   "https://cdn.example.com/P00078/1.jpg"
+  ],
+  "avg_rating": 3.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-03-30T10:22:19.444202"
+ },
+ {
+  "_id": "P00079",
+  "name": "Allen Solly Chinos",
+  "category": "Fashion",
+  "subcategory": "Chinos",
+  "brand": "Allen Solly",
+  "description": "Allen Solly Chinos - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1114.79,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "Olive",
+   "material": "Wool"
+  },
+  "tags": [
+   "fashion",
+   "allen solly",
+   "chinos"
+  ],
+  "images": [
+   "https://cdn.example.com/P00079/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-06-09T16:22:19.444208"
+ },
+ {
+  "_id": "P00080",
+  "name": "Philips Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Fryer",
+  "brand": "Philips",
+  "description": "Philips Air Fryer - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1386.65,
+  "currency": "USD",
+  "attributes": {
+   "color": "Grey",
+   "capacity_l": null,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "philips",
+   "air"
+  ],
+  "images": [
+   "https://cdn.example.com/P00080/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-08-29T00:52:19.444212"
+ },
+ {
+  "_id": "P00081",
+  "name": "Cosco Treadmill",
+  "category": "Sports & Fitness",
+  "subcategory": "Treadmill",
+  "brand": "Cosco",
+  "description": "Cosco Treadmill - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1993.29,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 10,
+   "color": "Red"
+  },
+  "tags": [
+   "sports",
+   "cosco",
+   "treadmill"
+  ],
+  "images": [
+   "https://cdn.example.com/P00081/1.jpg"
+  ],
+  "avg_rating": 2.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-09-14T17:58:19.444217"
+ },
+ {
+  "_id": "P00082",
+  "name": "Bajaj Bed Sheet Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Set",
+  "brand": "Bajaj",
+  "description": "Bajaj Bed Sheet Set - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 468.76,
+  "currency": "USD",
+  "attributes": {
+   "color": "Beige",
+   "capacity_l": 1.5,
+   "warranty_months": 6
+  },
+  "tags": [
+   "home",
+   "bajaj",
+   "bed"
+  ],
+  "images": [
+   "https://cdn.example.com/P00082/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2025-03-10T18:16:19.444221"
+ },
+ {
+  "_id": "P00083",
+  "name": "Nike Chinos",
+  "category": "Fashion",
+  "subcategory": "Chinos",
+  "brand": "Nike",
+  "description": "Nike Chinos - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 560.22,
+  "currency": "USD",
+  "attributes": {
+   "size": "XXL",
+   "color": "White",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "nike",
+   "chinos"
+  ],
+  "images": [
+   "https://cdn.example.com/P00083/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-05-31T10:09:19.444226"
+ },
+ {
+  "_id": "P00084",
+  "name": "Puma Running Shoes",
+  "category": "Fashion",
+  "subcategory": "Shoes",
+  "brand": "Puma",
+  "description": "Puma Running Shoes - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 611.5,
+  "currency": "USD",
+  "attributes": {
+   "size": "XXL",
+   "color": "Navy",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "puma",
+   "running"
+  ],
+  "images": [
+   "https://cdn.example.com/P00084/1.jpg"
+  ],
+  "avg_rating": 3.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-07-26T14:52:19.444230"
+ },
+ {
+  "_id": "P00085",
+  "name": "Milton Vacuum Cleaner",
+  "category": "Home & Kitchen",
+  "subcategory": "Cleaner",
+  "brand": "Milton",
+  "description": "Milton Vacuum Cleaner - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 214.14,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "capacity_l": 5,
+   "warranty_months": 12
+  },
+  "tags": [
+   "home",
+   "milton",
+   "vacuum"
+  ],
+  "images": [
+   "https://cdn.example.com/P00085/1.jpg"
+  ],
+  "avg_rating": 3.2,
+  "review_count": 5,
+  "is_active": true,
+  "created_at": "2025-05-18T00:59:19.444235"
+ },
+ {
+  "_id": "P00086",
+  "name": "Milton Non-Stick Pan",
+  "category": "Home & Kitchen",
+  "subcategory": "Pan",
+  "brand": "Milton",
+  "description": "Milton Non-Stick Pan - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 512.42,
+  "currency": "USD",
+  "attributes": {
+   "color": "Red",
+   "capacity_l": 0.5,
+   "warranty_months": 6
+  },
+  "tags": [
+   "home",
+   "milton",
+   "non-stick"
+  ],
+  "images": [
+   "https://cdn.example.com/P00086/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2025-07-27T01:23:19.444240"
+ },
+ {
+  "_id": "P00087",
+  "name": "Nike Yoga Mat",
+  "category": "Sports & Fitness",
+  "subcategory": "Mat",
+  "brand": "Nike",
+  "description": "Nike Yoga Mat - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 311.93,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 10,
+   "color": "Red"
+  },
+  "tags": [
+   "sports",
+   "nike",
+   "yoga"
+  ],
+  "images": [
+   "https://cdn.example.com/P00087/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2026-06-15T09:20:19.444244"
+ },
+ {
+  "_id": "P00088",
+  "name": "Decathlon Gym Gloves",
+  "category": "Sports & Fitness",
+  "subcategory": "Gloves",
+  "brand": "Decathlon",
+  "description": "Decathlon Gym Gloves - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1196.28,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 10,
+   "color": "Blue"
+  },
+  "tags": [
+   "sports",
+   "decathlon",
+   "gym"
+  ],
+  "images": [
+   "https://cdn.example.com/P00088/1.jpg"
+  ],
+  "avg_rating": 3.5,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2025-03-24T03:59:19.444248"
+ },
+ {
+  "_id": "P00089",
+  "name": "Bloomsbury Think Again",
+  "category": "Books",
+  "subcategory": "Again",
+  "brand": "Bloomsbury",
+  "description": "Bloomsbury Think Again - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1980.15,
+  "currency": "USD",
+  "attributes": {
+   "pages": 306,
+   "language": "English",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "bloomsbury",
+   "think"
+  ],
+  "images": [
+   "https://cdn.example.com/P00089/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-06-01T09:47:19.444253"
+ },
+ {
+  "_id": "P00090",
+  "name": "Adidas Denim Jeans",
+  "category": "Fashion",
+  "subcategory": "Jeans",
+  "brand": "Adidas",
+  "description": "Adidas Denim Jeans - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 322.53,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "White",
+   "material": "Cotton"
+  },
+  "tags": [
+   "fashion",
+   "adidas",
+   "denim"
+  ],
+  "images": [
+   "https://cdn.example.com/P00090/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2026-04-03T16:01:19.444257"
+ },
+ {
+  "_id": "P00091",
+  "name": "Scholastic 1984",
+  "category": "Books",
+  "subcategory": "1984",
+  "brand": "Scholastic",
+  "description": "Scholastic 1984 - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 589.6,
+  "currency": "USD",
+  "attributes": {
+   "pages": 268,
+   "language": "Hindi",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "scholastic",
+   "1984"
+  ],
+  "images": [
+   "https://cdn.example.com/P00091/1.jpg"
+  ],
+  "avg_rating": 3.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-11-24T17:32:19.444261"
+ },
+ {
+  "_id": "P00092",
+  "name": "Penguin Rich Dad Poor Dad",
+  "category": "Books",
+  "subcategory": "Dad",
+  "brand": "Penguin",
+  "description": "Penguin Rich Dad Poor Dad - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1848.57,
+  "currency": "USD",
+  "attributes": {
+   "pages": 553,
+   "language": "English",
+   "format": "Hardcover"
+  },
+  "tags": [
+   "books",
+   "penguin",
+   "rich"
+  ],
+  "images": [
+   "https://cdn.example.com/P00092/1.jpg"
+  ],
+  "avg_rating": 3.75,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2026-05-15T23:13:19.444266"
+ },
+ {
+  "_id": "P00093",
+  "name": "Adidas Running Shoes",
+  "category": "Fashion",
+  "subcategory": "Shoes",
+  "brand": "Adidas",
+  "description": "Adidas Running Shoes - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 152.1,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "Maroon",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "adidas",
+   "running"
+  ],
+  "images": [
+   "https://cdn.example.com/P00093/1.jpg"
+  ],
+  "avg_rating": 3.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-06-18T12:58:19.444270"
+ },
+ {
+  "_id": "P00094",
+  "name": "Borosil Bed Sheet Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Set",
+  "brand": "Borosil",
+  "description": "Borosil Bed Sheet Set - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1005.93,
+  "currency": "USD",
+  "attributes": {
+   "color": "Red",
+   "capacity_l": 2,
+   "warranty_months": 6
+  },
+  "tags": [
+   "home",
+   "borosil",
+   "bed"
+  ],
+  "images": [
+   "https://cdn.example.com/P00094/1.jpg"
+  ],
+  "avg_rating": 4.67,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-08-01T02:40:19.444274"
+ },
+ {
+  "_id": "P00095",
+  "name": "Bajaj Non-Stick Pan",
+  "category": "Home & Kitchen",
+  "subcategory": "Pan",
+  "brand": "Bajaj",
+  "description": "Bajaj Non-Stick Pan - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 191.73,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "capacity_l": null,
+   "warranty_months": 12
+  },
+  "tags": [
+   "home",
+   "bajaj",
+   "non-stick"
+  ],
+  "images": [
+   "https://cdn.example.com/P00095/1.jpg"
+  ],
+  "avg_rating": 2.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-01-28T14:39:19.444279"
+ },
+ {
+  "_id": "P00096",
+  "name": "Van Heusen Kurta",
+  "category": "Fashion",
+  "subcategory": "Kurta",
+  "brand": "Van Heusen",
+  "description": "Van Heusen Kurta - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1306.49,
+  "currency": "USD",
+  "attributes": {
+   "size": "L",
+   "color": "Navy",
+   "material": "Wool"
+  },
+  "tags": [
+   "fashion",
+   "van heusen",
+   "kurta"
+  ],
+  "images": [
+   "https://cdn.example.com/P00096/1.jpg"
+  ],
+  "avg_rating": 3.5,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2025-04-25T13:57:19.444283"
+ },
+ {
+  "_id": "P00097",
+  "name": "Borosil Table Lamp",
+  "category": "Home & Kitchen",
+  "subcategory": "Lamp",
+  "brand": "Borosil",
+  "description": "Borosil Table Lamp - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 648.9,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "capacity_l": 1,
+   "warranty_months": 12
+  },
+  "tags": [
+   "home",
+   "borosil",
+   "table"
+  ],
+  "images": [
+   "https://cdn.example.com/P00097/1.jpg"
+  ],
+  "avg_rating": 3.67,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-07-15T17:56:19.444287"
+ },
+ {
+  "_id": "P00098",
+  "name": "Borosil Dinner Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Set",
+  "brand": "Borosil",
+  "description": "Borosil Dinner Set - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 83.02,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "capacity_l": 1.5,
+   "warranty_months": 12
+  },
+  "tags": [
+   "home",
+   "borosil",
+   "dinner"
+  ],
+  "images": [
+   "https://cdn.example.com/P00098/1.jpg"
+  ],
+  "avg_rating": 4.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-10-14T12:38:19.444292"
+ },
+ {
+  "_id": "P00099",
+  "name": "Scholastic The Silent Patient",
+  "category": "Books",
+  "subcategory": "Patient",
+  "brand": "Scholastic",
+  "description": "Scholastic The Silent Patient - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1318.73,
+  "currency": "USD",
+  "attributes": {
+   "pages": 427,
+   "language": "Hindi",
+   "format": "Hardcover"
+  },
+  "tags": [
+   "books",
+   "scholastic",
+   "the"
+  ],
+  "images": [
+   "https://cdn.example.com/P00099/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-07-17T09:54:19.444297"
+ },
+ {
+  "_id": "P00100",
+  "name": "Cello Vacuum Cleaner",
+  "category": "Home & Kitchen",
+  "subcategory": "Cleaner",
+  "brand": "Cello",
+  "description": "Cello Vacuum Cleaner - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1522.37,
+  "currency": "USD",
+  "attributes": {
+   "color": "Beige",
+   "capacity_l": 1.5,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "cello",
+   "vacuum"
+  ],
+  "images": [
+   "https://cdn.example.com/P00100/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-04-29T06:59:19.444301"
+ },
+ {
+  "_id": "P00101",
+  "name": "Penguin The Silent Patient",
+  "category": "Books",
+  "subcategory": "Patient",
+  "brand": "Penguin",
+  "description": "Penguin The Silent Patient - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1946.55,
+  "currency": "USD",
+  "attributes": {
+   "pages": 461,
+   "language": "English",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "penguin",
+   "the"
+  ],
+  "images": [
+   "https://cdn.example.com/P00101/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-04-01T06:52:19.444305"
+ },
+ {
+  "_id": "P00102",
+  "name": "OnePlus Power Bank",
+  "category": "Electronics",
+  "subcategory": "Bank",
+  "brand": "OnePlus",
+  "description": "OnePlus Power Bank - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 195.48,
+  "currency": "USD",
+  "attributes": {
+   "color": "Black",
+   "warranty_months": 12,
+   "battery_life_hrs": 8
+  },
+  "tags": [
+   "electronics",
+   "oneplus",
+   "power"
+  ],
+  "images": [
+   "https://cdn.example.com/P00102/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-04-06T00:28:19.444309"
+ },
+ {
+  "_id": "P00103",
+  "name": "Bajaj Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Fryer",
+  "brand": "Bajaj",
+  "description": "Bajaj Air Fryer - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1671.09,
+  "currency": "USD",
+  "attributes": {
+   "color": "Red",
+   "capacity_l": 1,
+   "warranty_months": 12
+  },
+  "tags": [
+   "home",
+   "bajaj",
+   "air"
+  ],
+  "images": [
+   "https://cdn.example.com/P00103/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-02-23T12:03:19.444315"
+ },
+ {
+  "_id": "P00104",
+  "name": "Roadster Kurta",
+  "category": "Fashion",
+  "subcategory": "Kurta",
+  "brand": "Roadster",
+  "description": "Roadster Kurta - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1495.11,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "Black",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "roadster",
+   "kurta"
+  ],
+  "images": [
+   "https://cdn.example.com/P00104/1.jpg"
+  ],
+  "avg_rating": 2.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2025-07-13T05:28:19.444319"
+ },
+ {
+  "_id": "P00105",
+  "name": "Cosco Yoga Mat",
+  "category": "Sports & Fitness",
+  "subcategory": "Mat",
+  "brand": "Cosco",
+  "description": "Cosco Yoga Mat - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 572.84,
+  "currency": "USD",
+  "attributes": {
+   "weight_kg": 2,
+   "color": "Green"
+  },
+  "tags": [
+   "sports",
+   "cosco",
+   "yoga"
+  ],
+  "images": [
+   "https://cdn.example.com/P00105/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2026-04-11T01:53:19.444323"
+ },
+ {
+  "_id": "P00106",
+  "name": "Bloomsbury The Alchemist",
+  "category": "Books",
+  "subcategory": "Alchemist",
+  "brand": "Bloomsbury",
+  "description": "Bloomsbury The Alchemist - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1108.31,
+  "currency": "USD",
+  "attributes": {
+   "pages": 428,
+   "language": "Hindi",
+   "format": "Hardcover"
+  },
+  "tags": [
+   "books",
+   "bloomsbury",
+   "the"
+  ],
+  "images": [
+   "https://cdn.example.com/P00106/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-10-16T09:43:19.444328"
+ },
+ {
+  "_id": "P00107",
+  "name": "Roadster Sneakers",
+  "category": "Fashion",
+  "subcategory": "Sneakers",
+  "brand": "Roadster",
+  "description": "Roadster Sneakers - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 474.78,
+  "currency": "USD",
+  "attributes": {
+   "size": "XL",
+   "color": "Black",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "roadster",
+   "sneakers"
+  ],
+  "images": [
+   "https://cdn.example.com/P00107/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-05-13T17:29:19.444332"
+ },
+ {
+  "_id": "P00108",
+  "name": "Rupa Sapiens",
+  "category": "Books",
+  "subcategory": "Sapiens",
+  "brand": "Rupa",
+  "description": "Rupa Sapiens - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 995.69,
+  "currency": "USD",
+  "attributes": {
+   "pages": 168,
+   "language": "English",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "rupa",
+   "sapiens"
+  ],
+  "images": [
+   "https://cdn.example.com/P00108/1.jpg"
+  ],
+  "avg_rating": 4.67,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-10-06T12:32:19.444337"
+ },
+ {
+  "_id": "P00109",
+  "name": "Penguin Deep Work",
+  "category": "Books",
+  "subcategory": "Work",
+  "brand": "Penguin",
+  "description": "Penguin Deep Work - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1821.77,
+  "currency": "USD",
+  "attributes": {
+   "pages": 157,
+   "language": "English",
+   "format": "Hardcover"
+  },
+  "tags": [
+   "books",
+   "penguin",
+   "deep"
+  ],
+  "images": [
+   "https://cdn.example.com/P00109/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 4,
+  "is_active": true,
+  "created_at": "2026-04-05T13:57:19.444342"
+ },
+ {
+  "_id": "P00110",
+  "name": "Havells Wall Clock",
+  "category": "Home & Kitchen",
+  "subcategory": "Clock",
+  "brand": "Havells",
+  "description": "Havells Wall Clock - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1388.47,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "capacity_l": 1.5,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "havells",
+   "wall"
+  ],
+  "images": [
+   "https://cdn.example.com/P00110/1.jpg"
+  ],
+  "avg_rating": 4.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-03-13T04:07:19.444347"
+ },
+ {
+  "_id": "P00111",
+  "name": "Scholastic The Silent Patient",
+  "category": "Books",
+  "subcategory": "Patient",
+  "brand": "Scholastic",
+  "description": "Scholastic The Silent Patient - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1238.73,
+  "currency": "USD",
+  "attributes": {
+   "pages": 270,
+   "language": "Hindi",
+   "format": "Paperback"
+  },
+  "tags": [
+   "books",
+   "scholastic",
+   "the"
+  ],
+  "images": [
+   "https://cdn.example.com/P00111/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-06-10T03:21:19.444351"
+ },
+ {
+  "_id": "P00112",
+  "name": "Lenovo Smartwatch",
+  "category": "Electronics",
+  "subcategory": "Smartwatch",
+  "brand": "Lenovo",
+  "description": "Lenovo Smartwatch - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1391.05,
+  "currency": "USD",
+  "attributes": {
+   "color": "Black",
+   "warranty_months": 6,
+   "battery_life_hrs": 20
+  },
+  "tags": [
+   "electronics",
+   "lenovo",
+   "smartwatch"
+  ],
+  "images": [
+   "https://cdn.example.com/P00112/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2026-07-15T07:05:19.444356"
+ },
+ {
+  "_id": "P00113",
+  "name": "Borosil Mixer Grinder",
+  "category": "Home & Kitchen",
+  "subcategory": "Grinder",
+  "brand": "Borosil",
+  "description": "Borosil Mixer Grinder - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 495.94,
+  "currency": "USD",
+  "attributes": {
+   "color": "Red",
+   "capacity_l": 5,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "borosil",
+   "mixer"
+  ],
+  "images": [
+   "https://cdn.example.com/P00113/1.jpg"
+  ],
+  "avg_rating": 3.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-03-10T11:16:19.444360"
+ },
+ {
+  "_id": "P00114",
+  "name": "Xiaomi Power Bank",
+  "category": "Electronics",
+  "subcategory": "Bank",
+  "brand": "Xiaomi",
+  "description": "Xiaomi Power Bank - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1243.21,
+  "currency": "USD",
+  "attributes": {
+   "color": "White",
+   "warranty_months": 12,
+   "battery_life_hrs": null
+  },
+  "tags": [
+   "electronics",
+   "xiaomi",
+   "power"
+  ],
+  "images": [
+   "https://cdn.example.com/P00114/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-04-17T08:58:19.444364"
+ },
+ {
+  "_id": "P00115",
+  "name": "Cello Bed Sheet Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Set",
+  "brand": "Cello",
+  "description": "Cello Bed Sheet Set - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1337.0,
+  "currency": "USD",
+  "attributes": {
+   "color": "Red",
+   "capacity_l": 1.5,
+   "warranty_months": 24
+  },
+  "tags": [
+   "home",
+   "cello",
+   "bed"
+  ],
+  "images": [
+   "https://cdn.example.com/P00115/1.jpg"
+  ],
+  "avg_rating": 0.0,
+  "review_count": 0,
+  "is_active": true,
+  "created_at": "2025-02-28T11:23:19.444368"
+ },
+ {
+  "_id": "P00116",
+  "name": "Bloomsbury Think Again",
+  "category": "Books",
+  "subcategory": "Again",
+  "brand": "Bloomsbury",
+  "description": "Bloomsbury Think Again - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 605.31,
+  "currency": "USD",
+  "attributes": {
+   "pages": 367,
+   "language": "Hindi",
+   "format": "Hardcover"
+  },
+  "tags": [
+   "books",
+   "bloomsbury",
+   "think"
+  ],
+  "images": [
+   "https://cdn.example.com/P00116/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-11-05T10:03:19.444372"
+ },
+ {
+  "_id": "P00117",
+  "name": "Penguin Rich Dad Poor Dad",
+  "category": "Books",
+  "subcategory": "Dad",
+  "brand": "Penguin",
+  "description": "Penguin Rich Dad Poor Dad - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 768.9,
+  "currency": "USD",
+  "attributes": {
+   "pages": 333,
+   "language": "Hindi",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "penguin",
+   "rich"
+  ],
+  "images": [
+   "https://cdn.example.com/P00117/1.jpg"
+  ],
+  "avg_rating": 2.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2025-11-12T15:34:19.444377"
+ },
+ {
+  "_id": "P00118",
+  "name": "Bloomsbury The Silent Patient",
+  "category": "Books",
+  "subcategory": "Patient",
+  "brand": "Bloomsbury",
+  "description": "Bloomsbury The Silent Patient - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 1136.19,
+  "currency": "USD",
+  "attributes": {
+   "pages": 501,
+   "language": "English",
+   "format": "eBook"
+  },
+  "tags": [
+   "books",
+   "bloomsbury",
+   "the"
+  ],
+  "images": [
+   "https://cdn.example.com/P00118/1.jpg"
+  ],
+  "avg_rating": 5.0,
+  "review_count": 1,
+  "is_active": true,
+  "created_at": "2025-04-20T06:38:19.444381"
+ },
+ {
+  "_id": "P00119",
+  "name": "Roadster Leather Jacket",
+  "category": "Fashion",
+  "subcategory": "Jacket",
+  "brand": "Roadster",
+  "description": "Roadster Leather Jacket - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 445.81,
+  "currency": "USD",
+  "attributes": {
+   "size": "M",
+   "color": "White",
+   "material": "Denim"
+  },
+  "tags": [
+   "fashion",
+   "roadster",
+   "leather"
+  ],
+  "images": [
+   "https://cdn.example.com/P00119/1.jpg"
+  ],
+  "avg_rating": 4.5,
+  "review_count": 2,
+  "is_active": true,
+  "created_at": "2026-04-22T20:21:19.444385"
+ },
+ {
+  "_id": "P00120",
+  "name": "JBL Wireless Mouse",
+  "category": "Electronics",
+  "subcategory": "Mouse",
+  "brand": "JBL",
+  "description": "JBL Wireless Mouse - premium quality, factory sealed, trusted by thousands of customers across India.",
+  "price": 76.39,
+  "currency": "USD",
+  "attributes": {
+   "color": "Blue",
+   "warranty_months": 24,
+   "battery_life_hrs": 10
+  },
+  "tags": [
+   "electronics",
+   "jbl",
+   "wireless"
+  ],
+  "images": [
+   "https://cdn.example.com/P00120/1.jpg"
+  ],
+  "avg_rating": 3.33,
+  "review_count": 3,
+  "is_active": true,
+  "created_at": "2026-06-10T07:07:19.444389"
+ }
+]
