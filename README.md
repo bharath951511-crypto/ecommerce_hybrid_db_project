@@ -13,7 +13,7 @@ git clone YOUR_GITHUB_LINK
 
 Navigate to the project:
 
-cd "E commerce/ecommerce_hybrid_db_project"
+cd ecommerce_hybrid_db_project
 
 Run:
 
