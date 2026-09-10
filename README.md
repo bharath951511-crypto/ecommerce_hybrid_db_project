@@ -15,11 +15,13 @@ Navigate to the project:
 
 cd ecommerce_hybrid_db_project
 
+Generate the database data:
+
+python3 scripts/generate_data.py
+
 Run:
 
 python3 scripts/run_all_queries.py
-
-python3 scripts/generate_data.py
 
 Results are generated in:
 
